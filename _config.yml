@@ -16,7 +16,7 @@ timezone: Asia/Calcutta
 
 title: Praṇav | प्रणव # the main title
 
-tagline: "Do, or do not, Happen it will.\n -Probably Yoda" # it will display as the sub-title
+tagline: "Do, or do not, Happen it will. \n\n -Probably Yoda" # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A blog on legal issues relating to technological developments. And more.
