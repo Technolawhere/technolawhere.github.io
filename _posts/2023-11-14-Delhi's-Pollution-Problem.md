@@ -15,4 +15,5 @@ tags: [Delhi, Pollution]
 ![Smog the tyrannical returns!](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/Table-%20Extent%20of%20Overshoot%20Above%20the%20Maximum%20Prescribed%20Limits.jpg)
 
 
+
 <p>Many thousands of years later, the dragon, Smog the terrible, has taken birth again. It flies down from the rice growing plains of the north and plunders the lands of Delhi. It rules these lands uncontested. It is particularly attracted by the treasures of ’Dhanteras’ and wreaks havoc on the night of Diwali which becomes the night of Desolation of Smog.  It leaves and reappears at its own will throughout the year. The surrounding areas of Delhi: the NCR, have become a deeply scared wasteland due to its unending tyranny. Delhi is yet to see a successful attempt of some brave company of Dwarves and Men that will end this enslavement. </p>
