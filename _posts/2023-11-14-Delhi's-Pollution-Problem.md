@@ -12,6 +12,5 @@ tags: [Delhi, Pollution]
 <p>Many thousands of years later, the dragon, Smog the terrible, has taken birth again. It flies down from the rice growing plains of the north and plunders the lands of Delhi. It rules these lands uncontested. It is particularly attracted by the treasures of ’Dhanteras’ and wreaks havoc on the night of Diwali which becomes the night of Desolation of Smog.  It leaves and reappears at its own will throughout the year. The surrounding areas of Delhi: the NCR, have become a deeply scared wasteland due to its unending tyranny. Delhi is yet to see a successful attempt of some brave company of Dwarves and Men that will end this enslavement. </p>
 </div>
 
-![Smog the tyrannical returns!]() 
-
+![Smog the tyrannical returns!](https://www.google.co.in/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png)
 
