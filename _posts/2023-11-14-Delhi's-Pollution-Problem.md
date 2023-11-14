@@ -11,8 +11,8 @@ tags: [Delhi, Pollution]
 
 
 </div>
-<img src="https://github.com/Technolawhere/technolawhere.github.io/blob/main/assets/co_contribution_of_vehicles.png" width="200" height="100">
+<img src="https://images.pexels.com/photos/618079/pexels-photo-618079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="200" height="100">
 
-![Smog the tyrannical returns!](https://github.com/Technolawhere/technolawhere.github.io/blob/main/assets/co_contribution_of_vehicles.png)
+![Smog the tyrannical returns!](https://images.pexels.com/photos/618079/pexels-photo-618079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 <p>Many thousands of years later, the dragon, Smog the terrible, has taken birth again. It flies down from the rice growing plains of the north and plunders the lands of Delhi. It rules these lands uncontested. It is particularly attracted by the treasures of ’Dhanteras’ and wreaks havoc on the night of Diwali which becomes the night of Desolation of Smog.  It leaves and reappears at its own will throughout the year. The surrounding areas of Delhi: the NCR, have become a deeply scared wasteland due to its unending tyranny. Delhi is yet to see a successful attempt of some brave company of Dwarves and Men that will end this enslavement. </p>
