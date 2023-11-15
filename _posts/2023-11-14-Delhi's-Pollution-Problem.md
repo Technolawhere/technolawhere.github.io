@@ -172,5 +172,5 @@ Duhkh mein sumiran sab kare, sukh mein kare na koy.
 
 Jo sukh mein sumiran kare, to duhkh kaahe ko hoy.
  
-To address this problem effectively our administration will have to sumiran about it not just during bad days but on clear and breathable days as well. If it is not done, Smaug will continue to return as and when it wishes and its rule over the realm of Men will never end.
+To address this problem effectively our administration will have to sumiran about it not just during bad days but on clear and breathable days as well. If it is not done, Smaug will continue to return as and when it wishes and its rule over the Realm of Men will never end.
 
