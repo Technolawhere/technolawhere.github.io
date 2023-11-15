@@ -6,21 +6,21 @@ tags: [Delhi, Pollution]
 ---
 
 # Delhi's Air Pollution Problem
-<p>In J. R. R. Tolkien’s book, The Hobbit, Smaug the terrible, the last of the great dragons of middle earth, on getting to know about the enormous treasure hoard of the Dwarven kingdom of Erebor, flew down from the mountains in the north, attacked and laid to waste both the kingdom and the neighbouring town of Dale. The surrounding domain became a scarred wasteland known to the Dwarves and Men as the “Desolation of Smaug”. The wicked Dragon ruled over these treasures of the Lonely Mountain for about 2 centuries before it was killed by the bold efforts of a company of dwarves and Bard, the bowman.</p>
+In J. R. R. Tolkien’s book, The Hobbit, Smaug the terrible, the last of the great dragons of middle earth, on getting to know about the enormous treasure hoard of the Dwarven kingdom of Erebor, flew down from the mountains in the north, attacked and laid to waste both the kingdom and the neighbouring town of Dale. The surrounding domain became a scarred wasteland known to the Dwarves and Men as the “Desolation of Smaug”. The wicked Dragon ruled over these treasures of the Lonely Mountain for about 2 centuries before it was killed by the bold efforts of a company of dwarves and Bard, the bowman.
 
-<p>Many thousands of years later, the dragon, Smog the terrible, has taken birth again. It flies down from the rice growing plains of the north and plunders the lands of Delhi. It rules these lands uncontested. It is particularly attracted by the treasures of ’Dhanteras’ and wreaks havoc on the night of Diwali which becomes the night of Desolation of Smog.  It leaves and reappears at its own will throughout the year. The surrounding areas of Delhi: the NCR, have become a deeply scared wasteland due to its unending tyranny. Delhi is yet to see a successful attempt of some brave company of Dwarves and Men that will end this enslavement. </p>
+Many thousands of years later, the dragon, Smog the terrible, has taken birth again. It flies down from the rice growing plains of the north and plunders the lands of Delhi. It rules these lands uncontested. It is particularly attracted by the treasures of ’Dhanteras’ and wreaks havoc on the night of Diwali which becomes the night of Desolation of Smog.  It leaves and reappears at its own will throughout the year. The surrounding areas of Delhi: the NCR, have become a deeply scared wasteland due to its unending tyranny. Delhi is yet to see a successful attempt of some brave company of Dwarves and Men that will end this enslavement. 
 
 ![Smog the tyrannical returns!](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/DelhiAirPollution/Sketches/Smog%20has%20returned.png "Smog the terrible!")
 
-<p>This post is an attempt at understanding Smog the tyrannical, with the hopes that a deeper understanding will be able to better guide those who are brave enough to stand against it.</p>
+This post is an attempt at understanding Smog the tyrannical, with the hopes that a deeper understanding will be able to better guide those who are brave enough to stand against it.
 
 ## How bad really is Delhi's Air?
 
-<p>Take a look at the following tables compiled by me:</p>
+Take a look at the following tables compiled by me:
 
 ![Pollutant Levels Over the Years and Average Values](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/DelhiAirPollution/Table-%20Pollution%20Levels%20Over%20the%20Years%20and%20Average%20Values.jpg "Pollutant Levels Over the Years and Average Values")
 
-<p>Above data has been extracted from CPCB Annual Air Quality Monitoring Programme Reports. It must be noted here that 2020 saw country-wide lockdowns due to COVID-19 outbreak. Industrial as well as vehicular activity was virtually reduced to non-existent levels during these times. Yet, even if we are to remove the 2020 data while calculating annual averages for various pollutants, it doesn’t make much difference. This indicates that there are multiple contributing factors to the pollution problem and vehicular and industrial factors contribute lesser than usually assumed. Pollution sources, as I will show later, vary with the time of the year, sometimes contributing more and sometimes less to the pie.</p>
+Above data has been extracted from CPCB Annual Air Quality Monitoring Programme Reports. It must be noted here that 2020 saw country-wide lockdowns due to COVID-19 outbreak. Industrial as well as vehicular activity was virtually reduced to non-existent levels during these times. Yet, even if we are to remove the 2020 data while calculating annual averages for various pollutants, it doesn’t make much difference. This indicates that there are multiple contributing factors to the pollution problem and vehicular and industrial factors contribute lesser than usually assumed. Pollution sources, as I will show later, vary with the time of the year, sometimes contributing more and sometimes less to the pie.
 
 ![Extent of Overshoot Above the Maximum Prescribed Limits](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/DelhiAirPollution/Table-%20Extent%20of%20Overshoot%20Above%20the%20Maximum%20Prescribed%20Limits.jpg "Extent of Overshoot Above the Maximum Prescribed Limits")
 
@@ -31,7 +31,10 @@ Comparing the annual averages calculated from CPCB data against the prescribed m
 
 Takeaway from the above two tables is that the average AQI of Delhi during the summer and winter months, is between poor to very poor with some respite during the 3-month period of monsoon when the air is borderline satisfactory. On an average, there are about 301 unfit air quality days in a year. It should be noted here that I have included moderate quality air in the unfit air category, in my analysis, as according to CPCB, when the AQI [(check here)](https://airquality.cpcb.gov.in/AQI_India/) is in moderate category, it may cause 
 
-    "Breathing discomfort to the people with lungs, asthma and heart diseases" 
+
+"Breathing discomfort to the people with lungs, asthma and heart diseases" 
+
+
 So, including it in breathable/ fit category would not be correct.  
 
 
@@ -161,12 +164,13 @@ Even with all these measures, the study is sceptical of achieving AQI ranges wit
 
 All in all, by way of this write-up, I have tried to develop an understanding as to what exactly is the problem that Delhi is facing throughout the year by using some authentic sources that are available in the public domain. This diagnosis is naturally the first step in treating this disease or, as I started out by saying, tackling smog the tyrannical. Equipped with such an understanding, our brave company of dwarves and men may be able to mount an attack! The need of the hour is to begin acting immediately on whatever data is available instead of first waiting for the situation to get bad. A year-round problem requires a year-round coordination between different stakeholders and action. The inertia of the government machinery is too great to spring into action at the last moment. Often, that results in too little being done, too late. Countless young and innocent children and elderly struggle for each breath in the very capital of the country that secures right to life as a basic fundament right to all. All the laxity on the part of the administration until the situation goes out of control with the Hon'ble Supreme Court then jumping in and sounding the alarm for the administration to begin their desperate attempt of handling the fast-worsening catastrophe reminds me of Sant Kabir Ji's words:
 
-    दुःख में सुमिरन सब करे, सुख में करे न कोय।
-    जो सुख में सुमिरन करे, तो दुःख काहे को होय।
+दुःख में सुमिरन सब करे, सुख में करे न कोय।
+
+जो सुख में सुमिरन करे, तो दुःख काहे को होय।
  
- 
-    Duhkh mein sumiran sab kare, sukh mein kare na koy.
-    Jo sukh mein sumiran kare, to duhkh kaahe ko hoy.
+Duhkh mein sumiran sab kare, sukh mein kare na koy.
+
+Jo sukh mein sumiran kare, to duhkh kaahe ko hoy.
  
 To address this problem effectively our administration will have to sumiran about it not just during bad days but on the clear and breathable days as well. If it is not done, Smaug will continue to return as and when it wishes and its rule over the realm of men will never end.
 
