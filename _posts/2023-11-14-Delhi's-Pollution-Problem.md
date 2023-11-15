@@ -1,6 +1,6 @@
 ---
 title: "Smog Returns!"
-date: 2023-11-14 00:00:00 +0000
+date: 2023-11-14 00:00:00 +0530
 categories: [Environment]
 tags: [Delhi, Pollution]
 ---
