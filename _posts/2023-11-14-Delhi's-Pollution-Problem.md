@@ -58,7 +58,7 @@ While doing my research on this matter, I came across an IITK report titled "Com
 
 ### Particulate matter
 
-Out of the pollutants seen earlier, the PM particles, as seen from the tables in the first section, pose a serious problem in the NCR region with levels being as high as 1400% and 2046% over WHO guidelines for PM10 and PM2.5 respectively. These PM particles carry certain signatures that are etched onto them at source. This property can be used to pinpoint their most probable sources. For example, PM particles having crustal signatures mainly consisting of silicon, aluminum, iron and calcium indicate their source to be soil/road/construction dust and fly ash. Presence of potassium in the particulate matter suggests its possible origin in the burning of biomass. Chlorine is an indicator of particulate matter originating from municipal waste. It was found in this study that PM10 and PM2.5 levels vary over different seasons along with their sources. 
+Out of the pollutants seen earlier, the PM particles, as seen from the tables in the first section, pose a serious problem in the NCR region with levels being as high as 1400% and 2046% over WHO guidelines for PM10 and PM2.5 respectively. These PM particles carry certain signatures that are etched onto them at source. This property can be used to pinpoint their most probable sources. For example, PM particles having crustal signatures mainly consisting of silicon, aluminum, iron and calcium indicate their source to be soil/road/construction dust and fly ash. Presence of potassium in the particulate matter suggests its possible origin in the burning of biomass. Chlorine is an indicator of particulate matter originating from burning of municipal waste. It was found in this study that PM10 and PM2.5 levels vary over different seasons along with their sources. 
 
 #### PM2.5
 
@@ -101,7 +101,7 @@ The above maps show that the PM10 pollution is significantly higher in certain p
 
 Polluting the air is only one part of the problem with these landfills. Their leachate pollutes the soil and the ground water of the surrounding regions. Toxins are bioaccumulated and biomagnified around these landfills. But all this is perhaps a discussion matter for another post. If I do get around writing about it, it will be linked to HERE.
 
-### NOx 
+### NOx (Nitrogen Oxides)
 
 NOx is a shorthand for nitric oxide (NO) and nitrogen dioxide (NO2), which are the most relevant nitrogen oxides for air pollution. These gases contribute to the formation of smog and acid rain, as well as affecting tropospheric ozone. NOx gases are usually produced from the reaction between nitrogen and oxygen during combustion of fuels, such as hydrocarbons, in air; especially at high temperatures, such as in car engines. In areas of high motor vehicle traffic, such as in large cities, the nitrogen oxides emitted can be a significant source of air pollution. NOx gases are also produced naturally by lightning. The following graph shows the major contributing sources of NOx pollution in the city.
 
@@ -113,9 +113,9 @@ Spatial distribution of NOx emissions is shown below beside the land use map of 
 
 ![Spatial Distribution of NOx Emissions and Superimposition](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/DelhiAirPollution/NOx/NOx%20map%20comparison.jpg "Spatial Distribution of NOx Emissions and Superimposition")
 
-It can be seen that the NOx emissions seem to be concentrated around major roads and congested areas of the city. One can see the GT Karnal Road forming in the north, Delhi - Jaipur Expressway connecting the city to Gurgaon forming in the south and connecting roads to Noida forming in the east on the NOx spatial distribution map. Use the superimposed image of the two maps for better visualisation. It can be seen that NOx are found in significant concentrations over the airport as well. The superimposed map also shows CP area to also have noticeable NOx concentrations. There are three deep blue spots prominently visible on the map: one in the north, one in the east and one in the south-east, near the border. These are Bawana industrial area, Pragati Powerplant and Badarpur Powerplant respectively.
+It can be seen that the NOx emissions seem to be concentrated around major roads and congested areas of the city. One can see the GT Karnal Road forming in the north, Delhi - Jaipur Expressway, which connects the city to Gurgaon, forming in the south and connecting roads to Noida forming in the east, on the NOx spatial distribution map. Use the superimposed image of the two maps for better visualisation. It can be seen that NOx are found in significant concentrations over the airport as well. The superimposed map also shows CP area to also have noticeable NOx concentrations. There are three deep blue spots prominently visible on the map: one in the north, one in the east and one in the south-east, near the border. These are Bawana industrial area, Pragati Powerplant and Badarpur Powerplant respectively.
 
-### SO2
+### SO2 (Sulphur Dioxide)
 
 Major contributing sources of SO2 emissions are shown below.
 
@@ -127,7 +127,7 @@ Below are the SO2 spatial emission and land-use map of Delhi for ready reference
 
 ![Spatial Distribution of SO2 Emissions and Superimposition](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/DelhiAirPollution/SO2/SO2%20map%20comparison.jpg "Spatial Distribution of SO2 Emissions and Superimposition")
 
-### CO
+### CO (Carbon Monoxide)
 The actual problem for which the vehicles are solely to blame is perhaps the CO emissions in the city. Apart from the vehicles, domestic emissions also contribute a significant chunk to the pie as seen in the chart below.
 
 ![CO Emission Load of Different Sources in the City of Delhi](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/DelhiAirPollution/CO/CO_Emission_Load_of_Different_Sources_in_the_City_Of_Delhi.jpg "CO Emission Load of Different Sources in the City of Delhi")
@@ -162,7 +162,7 @@ Based on the above study of emission sources and how they impact the pollutant c
 
 Even with all these measures, the study is sceptical of achieving AQI ranges within the set national limits. This is because implementation within the Delhi region alone is not sufficient to improve the air quality in the city. Delhi is a part of a larger contiguous area whose weather and atmospheric conditions are closely interlinked. Activities in one place have a direct effect on others. The study recommends extension of this plan to the entire NCR region as a second phase plan to see long term benefits.
 
-All in all, by way of this write-up, I have tried to develop an understanding as to what exactly is the problem that Delhi is facing throughout the year by using some authentic sources that are available in the public domain. This diagnosis is naturally the first step in treating this disease or, as I started out by saying, tackling smog the tyrannical. Equipped with such an understanding, our brave company of dwarves and men may be able to mount an attack! The need of the hour is to begin acting immediately on whatever data is available instead of first waiting for the situation to get bad. A year-round problem requires a year-round coordination between different stakeholders and action. The inertia of the government machinery is too great to spring into action at the last moment. Often, that results in too little being done, too late. Countless young and innocent children and elderly struggle for each breath in the very capital of the country that secures right to life as a basic fundament right to all. All the laxity on the part of the administration until the situation goes out of control with the Hon'ble Supreme Court then jumping in and sounding the alarm for the administration to begin their desperate attempt of handling the fast-worsening catastrophe reminds me of Sant Kabir Ji's words:
+All in all, by way of this write-up, I have tried to develop an understanding as to what exactly is the problem that Delhi is facing throughout the year by using some authentic sources that are available in the public domain. This diagnosis is naturally the first step in treating this disease or, as I started out by saying, tackling smog the tyrannical. Equipped with such an understanding, our brave company of dwarves and men may be able to mount an attack! The need of the hour is to begin acting immediately on whatever data is available instead of first waiting for the situation to get bad. A year-round problem requires a year-round coordination between different stakeholders and action. The inertia of the government machinery is too great to spring into action at the last moment. Often, that results in too little being done, too late. Countless young and innocent children and elderly struggle for each breath in the very capital of the country that secures right to life as a basic fundamental right to all. All the laxity on the part of the administration until the situation goes out of control with the Hon'ble Supreme Court then jumping in and sounding the alarm for the administration to begin their desperate attempt of handling the fast-worsening catastrophe reminds me of Sant Kabir Ji's words:
 
 दुःख में सुमिरन सब करे, सुख में करे न कोय।
 
