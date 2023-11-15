@@ -99,7 +99,7 @@ The above maps show that the PM10 pollution is significantly higher in certain p
 
 ![Bhalswa Fallout](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/DelhiAirPollution/Sketches/bhalswa%20fallout%20com.jpeg "The character on the right is Vault Boy who is often seen posing as if giving a thumbs-up. Some say that he is actually measuring the size of an atomic cloud to estimate if he's safe or not. This is because during the cold war, people were told that if they saw a mushroom cloud on the horizon, they could tell whether they were going to die or not by comparing the cloud size against their thumb.")
 
-Polluting the air is only one part of the problem with these landfills. Their leachate pollutes the soil and the ground water of the surrounding regions. Toxins are bioaccumulated and biomagnified around these landfills. But all this is perhaps a discussion matter for another post. If I do get around writing about it, it will be linked to HERE.
+Polluting the air is only one part of the problem with these landfills. Their leachate pollutes the soil and the ground water of the surrounding regions. Toxins are bioaccumulated and biomagnified around these landfills. But all this is perhaps a discussion matter for another post. If I do get around writing about it, I will link it HERE.
 
 ### NOx (Nitrogen Oxides)
 
