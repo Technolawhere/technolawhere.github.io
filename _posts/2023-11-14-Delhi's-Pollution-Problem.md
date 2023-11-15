@@ -13,15 +13,15 @@ tags: [Delhi, Pollution]
 
 ![Smog the tyrannical returns!](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/DelhiAirPollution/Sketches/Smog%20has%20returned.png "Smog the terrible!")
 
-This post is an attempt at understanding Smog the tyrannical, with the hopes that a deeper understanding will be able to better guide those who are brave enough to stand against it.
+<p>This post is an attempt at understanding Smog the tyrannical, with the hopes that a deeper understanding will be able to better guide those who are brave enough to stand against it.</p>
 
 ## How bad really is Delhi's Air?
 
-Take a look at the following tables compiled by me:
+<p>Take a look at the following tables compiled by me:</p>
 
 ![Pollutant Levels Over the Years and Average Values](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/DelhiAirPollution/Table-%20Pollution%20Levels%20Over%20the%20Years%20and%20Average%20Values.jpg "Pollutant Levels Over the Years and Average Values")
 
-Above data has been extracted from CPCB Annual Air Quality Monitoring Programme Reports. It must be noted here that 2020 saw country-wide lockdowns due to COVID-19 outbreak. Industrial as well as vehicular activity was virtually reduced to non-existent levels during these times. Yet, even if we are to remove the 2020 data while calculating annual averages for various pollutants, it doesn’t make much difference. This indicates that there are multiple contributing factors to the pollution problem and vehicular and industrial factors contribute lesser than usually assumed. Pollution sources, as I will show later, vary with the time of the year, sometimes contributing more and sometimes less to the pie. 
+<p>Above data has been extracted from CPCB Annual Air Quality Monitoring Programme Reports. It must be noted here that 2020 saw country-wide lockdowns due to COVID-19 outbreak. Industrial as well as vehicular activity was virtually reduced to non-existent levels during these times. Yet, even if we are to remove the 2020 data while calculating annual averages for various pollutants, it doesn’t make much difference. This indicates that there are multiple contributing factors to the pollution problem and vehicular and industrial factors contribute lesser than usually assumed. Pollution sources, as I will show later, vary with the time of the year, sometimes contributing more and sometimes less to the pie.</p>
 
 ![Extent of Overshoot Above the Maximum Prescribed Limits](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/DelhiAirPollution/Table-%20Extent%20of%20Overshoot%20Above%20the%20Maximum%20Prescribed%20Limits.jpg "Extent of Overshoot Above the Maximum Prescribed Limits")
 
