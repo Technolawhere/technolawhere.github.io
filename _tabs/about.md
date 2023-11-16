@@ -35,7 +35,7 @@ An extremely low cost, highly accurate weather station based on Internet of Thin
 
 ![SVR Logo](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/About/SVR%20Logo.png "SVR Logo")
 
-A glove aiding people with hearing impairment and speech difficulties in communicating by converting sign language to voice and voice to text using machine learning and artificial intelligence. Checkout [Project SVR on YouTube](https://www.youtube.com/@projectsvrnitdelhi6028/videos)
+A glove to aid people with hearing impairment and speech difficulties in communicating by converting sign language to voice and voice to text using machine learning and artificial intelligence. Checkout [Project SVR on YouTube](https://www.youtube.com/@projectsvrnitdelhi6028/videos)
 
 
 ## Extracurricular interests
