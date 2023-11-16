@@ -5,7 +5,7 @@ order: 4
 ---
 
 
-## Summary
+# Summary
 
 A highly motivated fresher with a strong background in electrical
 and electronics engineering. Recently enrolled in a law degree
@@ -24,21 +24,28 @@ career in patent law or intellectual property management.
 
 ## My Major Electronics Projects
 
-|Project Name|Description|Link|
-|-----------|-----------|-------|
-|**SVR (स्वर)** : Sign and Voice Recognizer ![SVR Logo](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/About/SVR%20Logo.png "SVR Logo")|A glove aiding people with hearing impairment and speech difficulties in communicating by converting sign language to voice and voice to text using machine learning and artificial intelligence.|Project SVR on [YouTube](https://www.youtube.com/@projectsvrnitdelhi6028/videos)|
-|**SAMA (समा)** : Station for Automated Measurements of Atmospheric Data ![SAMA Logo](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/About/SAMA%20logo.jpg "SAMA Logo")|An extremely low cost, highly accurate weather station based on Internet of Things, built with inputs from the India Meteorological Department, exhibited at Rashtrapati Bhawan during the Festival of Innovation.|Replica installed at my residence. Check current atmospheric readings [here](https://thingspeak.com/channels/2194930)|
+### **SAMA (समा)** : Station for Automated Measurements of Atmospheric Data 
+
+![SAMA Logo](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/About/SAMA%20logo.jpg "SAMA Logo")
+
+
+An extremely low cost, highly accurate weather station based on Internet of Things, built with inputs from the India Meteorological Department, exhibited at Rashtrapati Bhawan during the Festival of Innovation. Smaller replica installed at my residence. Check current atmospheric readings [here](https://thingspeak.com/channels/2194930)
+
+### **SVR (स्वर)** : Sign and Voice Recognizer 
+
+![SVR Logo](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/About/SVR%20Logo.png "SVR Logo")
+
+A glove aiding people with hearing impairment and speech difficulties in communicating by converting sign language to voice and voice to text using machine learning and artificial intelligence. Checkout [Project SVR on YouTube](https://www.youtube.com/@projectsvrnitdelhi6028/videos)
 
 
 ## Extracurricular interests
 
 * Playing Table Tennis.
-
 * Sketching and Painting.
-
 * Robotics and other electronic projects, mostly based on Internet of Things.
 * Kit-Bashing.
 * Old Western and Classical Indian Music.
+* Playing the Keyboard.
 * Star-Wars and The Lord of the Rings Fan.
 
 ## Language proficiency
