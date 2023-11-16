@@ -123,9 +123,11 @@ Major contributing sources of SO2 emissions are shown below.
 
 Industrial Stack contributes about 91% of the total SO2 emissions. Industrial stack is basically a chimney that emits industrial exhaust high up in the atmosphere. Stack heights of less than 20m are considered as industrial stacks in the study and stacks higher than that have been included under point sources. 
  
-Below are the SO2 spatial emission and land-use map of Delhi for ready reference. Here too, the dark green hotspots in the east and in the south-east roughly correspond to the two Power stations mentioned above. Another hotspot is forming over the airport region and another over Wazirpur industrial area.
+Below are the SO2 spatial emission and land-use map of Delhi for ready reference. Here too, the dark green hotspots in the east and in the south-east roughly correspond to the two Power stations mentioned above. Another hotspot is forming over the airport region (it is always the airport and the power plants, isn't it?!) and another over Wazirpur industrial area.
 
 ![Spatial Distribution of SO2 Emissions and Superimposition](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/DelhiAirPollution/SO2/SO2%20map%20comparison.jpg "Spatial Distribution of SO2 Emissions and Superimposition")
+
+![Why is it when there is a pollution hotspot, it's always these three?!](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/DelhiAirPollution/Sketches/why_is_it_when_something_happens.jpg "Why is it when there is a pollution hotspot, it's always these three?!")
 
 ### CO (Carbon Monoxide)
 The actual problem for which the vehicles are solely to blame is perhaps the CO emissions in the city. Apart from the vehicles, domestic emissions also contribute a significant chunk to the pie as seen in the chart below.
