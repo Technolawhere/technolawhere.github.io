@@ -26,7 +26,7 @@ career in patent law or intellectual property management.
 
 |Project Name|Description|Link|
 |-----------|-----------|-------|
-|**SVR (स्वर)** : Sign and Voice Recognizer ![SVR Logo](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/About/SVR%20Logo.png "SVR Logo")|A glove aiding people with hearing impairment and speech difficulties in communicating by converting sign language to voice and voice to text using machine learning and artificial intelligence.|[Project SVR on YouTube](https://www.youtube.com/@projectsvrnitdelhi6028/videos)|
+|**SVR (स्वर)** : Sign and Voice Recognizer ![SVR Logo](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/About/SVR%20Logo.png "SVR Logo")|A glove aiding people with hearing impairment and speech difficulties in communicating by converting sign language to voice and voice to text using machine learning and artificial intelligence.|Project SVR on [YouTube](https://www.youtube.com/@projectsvrnitdelhi6028/videos)|
 |**SAMA (समा)** : Station for Automated Measurements of Atmospheric Data ![SAMA Logo](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/About/SAMA%20logo.jpg "SAMA Logo")|An extremely low cost, highly accurate weather station based on Internet of Things, built with inputs from the India Meteorological Department, exhibited at Rashtrapati Bhawan during the Festival of Innovation.|Replica installed at my residence. Check current atmospheric readings [here](https://thingspeak.com/channels/2194930)|
 
 
