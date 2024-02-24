@@ -1,6 +1,6 @@
 ---
 layout: default
-icon: fas fa-sun
+icon: fas fa-temperature
 ---
 
 # SAMA Dashboard
