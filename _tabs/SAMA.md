@@ -1,5 +1,6 @@
 ---
 layout: default
+icon: fas fa-sun-o
 ---
 
 # SAMA Dashboard
