@@ -4,9 +4,22 @@ layout: default
 
 # SAMA Dashboard
 
-<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://images.app.goo.gl/1wJtWP7z4oHPjr2bA"></iframe>
+## Feels Like
+<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2194930/widgets/672573"></iframe>
 
-## Temperature
+## Current Temperature
+<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2194930/widgets/672563"></iframe>
 
-<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2194930/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=300&title=Temperature+Chart+%28Project%20%E0%A4%B8%E0%A4%AE%E0%A4%BE%29&type=line"></iframe>
+## Current Atmospheric Pressure
+<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2194930/widgets/672564"></iframe>
+
+## Current Relative Humidity
+<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2194930/widgets/672565"></iframe>
+
+## Charts
+<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2194930/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=1000&title=Temperature+Chart+%28Project%20%E0%A4%B8%E0%A4%AE%E0%A4%BE%29&type=line"></iframe>
+
+<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2194930/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=1000&title=Pressure+Chart+%28Project%20%E0%A4%B8%E0%A4%AE%E0%A4%BE%29&type=line"></iframe>
+
+<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2194930/charts/3?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Humidity+Chart+%28Project%20%E0%A4%B8%E0%A4%AE%E0%A4%BE%29&type=line"></iframe>
 
