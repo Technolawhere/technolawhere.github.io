@@ -1,6 +1,6 @@
 ---
 layout: default
-icon: fas fa-temperature
+icon: fas fa-temperature-high
 ---
 
 # SAMA Dashboard
