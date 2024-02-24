@@ -4,7 +4,7 @@ layout: default
 
 # SAMA Dashboard
 
-<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/About/SAMA%20logo.jpg"></iframe>
+<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://images.app.goo.gl/1wJtWP7z4oHPjr2bA"></iframe>
 
 ## Temperature
 
