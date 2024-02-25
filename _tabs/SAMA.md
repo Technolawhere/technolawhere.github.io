@@ -1,6 +1,6 @@
 ---
 layout: default
-icon: fas fa-cloud-bolt-sun
+icon: fas fa-solid fa-temperature-high
 ---
 
 # SAMA Dashboard
