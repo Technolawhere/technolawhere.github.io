@@ -1,6 +1,7 @@
 ---
 layout: default
 icon: fas fa-solid fa-temperature-high
+order: 4
 ---
 
 # SAMA | समा Dashboard
