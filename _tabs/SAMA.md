@@ -1,6 +1,6 @@
 ---
 layout: default
-icon: fas fa-solid fa-cloud-bolt-sun
+icon: fas fa-cloud-bolt-sun
 ---
 
 # SAMA Dashboard
