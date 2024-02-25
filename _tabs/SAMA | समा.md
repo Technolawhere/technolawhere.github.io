@@ -3,7 +3,7 @@ layout: default
 icon: fas fa-solid fa-temperature-high
 ---
 
-# SAMA Dashboard
+# SAMA | समा Dashboard
 
 ## Current Temperature
 <iframe width="450" height="260" allowfullscreen="true" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2194930/widgets/672563"></iframe>
