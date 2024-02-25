@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 
@@ -29,7 +29,7 @@ career in patent law or intellectual property management.
 ![SAMA Logo](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/About/SAMA%20logo.jpg "SAMA Logo")
 
 
-An extremely low cost, highly accurate weather station based on Internet of Things, built with inputs from the India Meteorological Department, exhibited at Rashtrapati Bhawan during the Festival of Innovation. Smaller replica installed at my residence. Check current atmospheric readings [here](https://thingspeak.com/channels/2194930)
+An extremely low cost, highly accurate weather station based on Internet of Things, built with inputs from the India Meteorological Department, exhibited at Rashtrapati Bhawan during the Festival of Innovation. Smaller replica installed at my residence. Check current atmospheric readings [here](https://technolawhere.github.io/SAMA-समा/)
 
 ### **SVR (स्वर)** : Sign and Voice Recognizer 
 
