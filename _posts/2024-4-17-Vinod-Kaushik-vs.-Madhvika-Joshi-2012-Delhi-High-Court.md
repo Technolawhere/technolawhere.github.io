@@ -75,7 +75,7 @@ Judge: HON'BLE MR. JUSTICE VIPIN SANGHI
 
 ## Issues before the HC and Decision
 
-### **Was there a breach of Section 43 of IT Act 2000?**
+### Was there a breach of Section 43 of IT Act 2000?
    
 Yes, the respondent no. 1 committed unauthorised access by accessing the emails and chats of the petitioners and was thus guilty of breaching s.43. Adjudicating officer was right in her decision regarding this.
 
