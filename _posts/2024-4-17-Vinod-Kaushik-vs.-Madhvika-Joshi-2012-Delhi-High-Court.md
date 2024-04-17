@@ -59,7 +59,7 @@ other_name A second row
 
 | Name       | Description  |
 | ---------- | ------------ |
-| some_name  | Very very very long description for some_name property that should be easy to read even in plain text form even in html form |
+| some_name  | Very very very long description for <br /> some_name property that should be <br /> easy to read even in plain text <br /> form even in html form |
 | other_name | A second row |
 
    
