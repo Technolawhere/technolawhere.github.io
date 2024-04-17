@@ -9,7 +9,7 @@ tags: [Information Technology Act 2000, Cyber Torts]
 Judge: HON'BLE MR. JUSTICE VIPIN SANGHI
 
 
-## Sections Involved:
+## Sections Involved
 1. **S.498A, IPC**
    
       **Husband or relative of husband of a woman subjecting her to cruelty**
@@ -45,22 +45,11 @@ Judge: HON'BLE MR. JUSTICE VIPIN SANGHI
    Whoever, fraudulently or dishonestly make use of the electronic signature, password or any other unique identification feature of any other person, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to rupees one lakh.
 
 
-------------------------------------------
-Name       Description
----------- -------------------------------
-some_name  Very very very long description
-           for some_name property that
-           should be easy to read even in
-           plain text form even in html
-           form  
 
-other_name A second row
-------------------------------------------
-
-| Name       | Description  |
+| Petitioners    | Respondents  |
 | ---------- | ------------ |
-| some_name  | Very very very long description for <br /> some_name property that should be <br /> easy to read even in plain text <br /> form even in html form |
-| other_name | A second row |
+| No. 1- Father-in-law of Ms.Madhvika Joshi <br /> (Vinod Kaushik)  | No.1- Ms.Madhvika Joshi |
+| No. 2- Husband of Ms. Joshi (Neeraj Kaushik) | No.2, No.3 (unnamed) |
 
    
 
