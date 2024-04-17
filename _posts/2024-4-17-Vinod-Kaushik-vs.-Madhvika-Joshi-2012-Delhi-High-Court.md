@@ -44,6 +44,19 @@ Judge: HON'BLE MR. JUSTICE VIPIN SANGHI
 
    Whoever, fraudulently or dishonestly make use of the electronic signature, password or any other unique identification feature of any other person, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to rupees one lakh.
 
+
++------------+--------------------------------+
+| Name       | Description                    |
++============+================================+
+| some_name  | Very very very long description|
+|            | for some_name property that    |
+|            | should be easy to read even in |
+|            | plain text form even in html   |
+|            | form                           |
++------------+--------------------------------+
+| other_name | A second row                   |
++------------+--------------------------------+
+
    
 
 
