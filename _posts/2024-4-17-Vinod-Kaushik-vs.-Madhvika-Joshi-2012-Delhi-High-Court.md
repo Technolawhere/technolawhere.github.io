@@ -75,23 +75,23 @@ Judge: HON'BLE MR. JUSTICE VIPIN SANGHI
 
 ## Issues before the HC and Decision
 
-1. **Was there a breach of Section 43 of IT Act 2000?**
+### **Was there a breach of Section 43 of IT Act 2000?**
    
 Yes, the respondent no. 1 committed unauthorised access by accessing the emails and chats of the petitioners and was thus guilty of breaching s.43. Adjudicating officer was right in her decision regarding this.
 
-2. **When would claim for compensation arise on the breach of Section 43 of IT Act? Can compensation be claimed in the present case?**
+### When would claim for compensation arise on the breach of Section 43 of IT Act? Can compensation be claimed in the present case?
 
    **Test:** The claim would have to be established like in Civil Court, by making requisite averments with regard to the damage suffered, and thereafter by leading evidence in support thereof, to show that one or the other prohibited activities enumerated in Section 43 of the IT Act have resulted in the sufferance of damages by the person concerned.
 
 In the present case, the petitioners evidently have not led any evidence to show as to what damage they have suffered on account of the retrieval of their e-mails and chat sessions. This data was only provided to the police or the court and has not been used for any other purpose like being made public to malign the petitioners.
 
-3. **Can damages be claimed w.r.t. to the allegations of a false case being registered under 498A, IPC?**
+### Can damages be claimed w.r.t. to the allegations of a false case being registered under 498A, IPC?
    
    **Test:** The court said that invocation of a right available to a person to ventilate his or her grievances, and to take action against perceived illegalities and criminalities does not give a cause of action to claim damages to those being accused in such complaints/actions, unless it is eventually found that such complaints/actions was filed maliciously. 
 
 Here, all the consequences flowing on account of registration of the case under Section 498A IPC against the petitioners are remote and indirect consequences. It is premature to conclude that respondent 1 made a malicious complaint and hence the petitioners are not entitled to any damages presently. In case it is held by the concerned Court that the proceedings under Section 498A have been maliciously instituted, it shall be open to the petitioners, at that stage, to take appropriate steps to claim damages against the respondent.
 
-4. **Was the levy of token fine u/s 66, IT Act 2000 by Adjudicating Officer (AO), correct?**
+### Was the levy of token fine u/s 66, IT Act 2000 by Adjudicating Officer (AO), correct?
 
 Petitioners submitted that the AO functions as a civil court, whereas the fine could be imposed by a Criminal court and hence the imposition of the fine was incorrect. However, the court said that fine was imposed on Respondent 1 and if the person fined believes that the officer didn't have the authority to fine them, they can challenge it in court. Thus, the court didn’t clarify the jurisdiction of the AO w.r.t to the fine.
 
