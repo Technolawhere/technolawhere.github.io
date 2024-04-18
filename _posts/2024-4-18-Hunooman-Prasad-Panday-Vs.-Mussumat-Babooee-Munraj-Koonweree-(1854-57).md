@@ -8,11 +8,13 @@ tags: [Alienation of Joint Hindu Family Property, Family Law]
 
 Judge: Lord Justice Knight Bruce
 
-## Facts:
+## Facts
 
 In this case the obligations of guardians managing properties of infants and of lenders dealing with such guardians have been laid out by the court.
 
-## Power and Duties of the Guardian w.r.t to the property of the infant:
+## Held
+
+### Power and Duties of the Guardian w.r.t to the property of the infant
 
 * Has limited or qualified power
   
@@ -26,7 +28,7 @@ In this case the obligations of guardians managing properties of infants and of 
   
 * Mere creation of a charge securing a proper debt cannot be viewed as improvident (thoughtless) management as money to be secured on any estate is likely to be obtained on easier terms than a loan which rests on mere personal security.
 
-## Obligations of the lender or alienee: 
+### Obligations of the lender or alienee 
 
 * Duty to act in a bonafide manner.
   
@@ -36,7 +38,7 @@ In this case the obligations of guardians managing properties of infants and of 
    
 * Unless he is shown to have acted in a malafide manner, he will not be affected, though it be shown that, with better management, the estate might have been kept free from debt.
 
-## Note: 
+### Note
 
 The actual pressure on the estate, the danger to be averted, or the benefit to be conferred upon it, is the thing to be regarded while taking decisions in such matters where alienation is involved. 
 
