@@ -8,7 +8,8 @@ tags: [Nature And Development of International Law, Public International Law]
 # Reparation for Injuries Suffered in The Service of The United Nations (I.C. J. Reports 1949, p. 174)
 
 ## Statutes/Charters/Conventions and Sections/Articles Involved from therein:
-1. Article 1 Charter of the United Nations, 1945
+1. **Article 1 Charter of the United Nations, 1945**
+
    The **Purposes** of the United Nations are:
    1.	To maintain international peace and security, and to that end: to take effective collective measures for the prevention and removal of threats to the peace, and for the suppression of acts of aggression or other breaches of the peace, and to bring about by peaceful means, and in conformity with the principles of justice and international law, adjustment or settlement of international disputes or situations which might lead to a breach of the peace;
      
@@ -19,8 +20,24 @@ tags: [Nature And Development of International Law, Public International Law]
    7. To be a centre for harmonizing the actions of nations in the attainment of these common ends.
      
          
-2. Article 2, Charter of the United Nations, 1945
+3. **Article 2, Charter of the United Nations, 1945**
 
+   The Organization and its Members, in pursuit of the Purposes stated in Article 1, shall act in accordance with the following **Principles**:
+
+   1. The Organization is based on the principle of the sovereign equality of all its Members
+      
+   3. All Members, in order to ensure to all of them the rights and benefits resulting from membership, shall fulfill in good faith the obligations assumed by them in accordance with the present Charter.
+      
+   4. All Members shall settle their international disputes by peaceful means in such a manner that international peace and security, and justice, are not endangered.
+      
+   5. All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations.
+      
+   6. All Members shall give the United Nations every assistance in any action it takes in accordance with the present Charter, and shall refrain from giving assistance to any state against which the United Nations is taking preventive or enforcement action.
+      
+   7. The Organization shall ensure that states which are not Members of the United Nations act in accordance with these Principles so far as may be necessary for the maintenance of international peace and security.
+      
+   8. Nothing contained in the present Charter shall authorize the United Nations to intervene in matters which are essentially within the domestic jurisdiction of any state or shall require the Members to submit such matters to settlement under the present Charter; but this principle shall not prejudice the application of enforcement measures under Chapter VII.
+      
 3. Article 100, Charter of the United Nations, 1945
 
 4. Convention on the Privileges and Immunities of the U.N. of 1946
