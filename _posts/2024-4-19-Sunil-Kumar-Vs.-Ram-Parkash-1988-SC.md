@@ -113,13 +113,13 @@ To be edited.
 
    4. Such alienation would bind the interests of all the undivided members of the family whether they are adults or minors.
 
-   5. Principles laid down in [Hunooman persaud v. Babooee]( Hunooman Prasad Panday v. Mussumat Babooee Munraj Koonweree, (1854 - 57) | Praṇav | प्रणव (technolawhere.github.io)) apply equally to a father or other coparcener who manages the joint family estate.
+   5. Principles laid down in [Hunooman persaud v. Babooee](https://technolawhere.github.io/posts/Hunooman-Prasad-Panday-Vs.-Mussumat-Babooee-Munraj-Koonweree-(1854-57)/) apply equally to a father or other coparcener who manages the joint family estate.
 
 ### Remedies against Alienations
 
 * Members of the family have a right to have the transaction declared void, if not justified
 
-* When alienation is challenged, it would be for the alienee to prove that there was a legal necessity in fact or that he made proper and bona fide enquiry as to the existence of such necessity. (As decided in [Hunooman persaud v. Babooee]( Hunooman Prasad Panday v. Mussumat Babooee Munraj Koonweree, (1854 - 57) | Praṇav | प्रणव (technolawhere.github.io)))
+* When alienation is challenged, it would be for the alienee to prove that there was a legal necessity in fact or that he made proper and bona fide enquiry as to the existence of such necessity. (As decided in [Hunooman persaud v. Babooee](https://technolawhere.github.io/posts/Hunooman-Prasad-Panday-Vs.-Mussumat-Babooee-Munraj-Koonweree-(1854-57)/))
 
 * Such alienations would be void except to the extent of Manager’s share in Madras, Bombay and Central Provinces. The purchaser could get only the Manager’s share. But in other provinces, the purchaser would not get even that much. The entire alienation would be void.
 
