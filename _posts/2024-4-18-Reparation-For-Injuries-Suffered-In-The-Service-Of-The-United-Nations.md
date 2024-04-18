@@ -1,5 +1,5 @@
 ---
-title: "Reparation for Injuries Suffered in the Service of The United Nations"
+title: "Reparation for Injuries Suffered in the Service of The United Nations, 1949"
 date: 2024-4-18 00:00:00 +0530
 categories: [Case Summaries]
 tags: [Nature And Development of International Law, Public International Law]
