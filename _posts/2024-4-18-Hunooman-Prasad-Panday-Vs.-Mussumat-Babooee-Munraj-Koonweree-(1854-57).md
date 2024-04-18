@@ -1,5 +1,5 @@
 ---
-title: "Hunooman Prasad Panday v. Mussumat Babooee Munraj Koonweree"
+title: "Hunooman Prasad Panday v. Mussumat Babooee Munraj Koonweree, (1854 - 57)"
 date: 2024-4-18 00:00:00 +0530
 categories: [Case Summaries]
 tags: [Alienation of Joint Hindu Family Property, Family Law]
