@@ -49,7 +49,7 @@ tags: [Constitutional Law]
 
    *Pritam Singh v. State, AIR 1950 SC 169
    *Mohammad Latief Magrey vs The Union Territory Of Jammu... Dated 12 September, 2022 (CIVIL APPEAL NO. 6544 OF 2022(@ SLP (C) NO.12743 OF 2022))
-   *[Manoj Kumar Gupta vs State of U.P. And Another Allahabad High Court (UNREPORTED)] (https://indiankanoon.org/doc/109559256/)
+   *[ Manoj Kumar Gupta vs State of U.P. And Another Allahabad High Court (UNREPORTED) ] (https://indiankanoon.org/doc/109559256/)
 
 ### Websites
 
