@@ -96,7 +96,11 @@ Note:
       
    3. The matter to be heard by the Hon’ble Supreme Court.
       
-   5. Students may frame their own issues 
+   5. Students may frame their own issues
+
+## Side Assigned
+
+Respondent 
 
 ## Table of Abbreviations
 
@@ -183,10 +187,43 @@ The Jurisdiction of the Hon'ble Supreme Court of Republic of Bharati has been in
 
 ## Summary of Arguments 
 
+### Is the petition of the NGO maintainable in the Hon’ble Supreme Court of Republic of Bharati? 
 
+That since the conditions specified under Articles 32, 132, 133, 134, 134A and 136 are not met, the petition of the NGO should be dismissed *in limine* .
+
+### Were Fundamental Rights given under Article 21 and Article 22 of the Constitution violated on the issues of custody and did it render subsequent custody illegal?
+
+That as the facts are silent on this, considering that the judicial mind (at two levels: at magistrate level and then at a much higher level in the Hon’ble High Court) applied to all the facts and arguments of this case, did not specifically point out any such lacunae, if a presumption is to be made, it would tilt in favour of the view that conditions relating to production before magistrate within 24 hours of arrest and subsequent remand were fully met. Therefore, there was no violation of Fundamental Rights specified under Article 21 and 22 of the Constitution.
+
+### Whether a person, arrested by the Police, has a right to escape from police custody if the Police continues to detain him beyond the period authorised by law?
+
+That there is no right given to the accused to walk free on their own after their period of detention, as authorised by law, comes to an end. The remedy provided for such matters is only to approach a Court of law to seek bail. The act of snatching weapons from the police and trying to flee is grossly illegal. 
+
+### Whether there was a violation of any Human Rights or Fundamental Rights guaranteed under Article 21 of the Constitution, of the deceased, with respect to the Police Encounter?  
+
+That there was no violation of Human Rights and Article 21 of the Constitution which guarantees right to life as a Fundamental Right, as the act of the policemen, which resulted in the death of the 4 accused, was not arbitrary and also strictly in accordance to the procedure established by law namely sections 41 and 46 of the Criminal Procedure Code, 1973.
+
+### Did the encounter of the accused by the Police constitute a murder?
+
+That Police were acting according to section 23 of the Police Act, 1861 and also in exercise of the right to private defence of body. Hence their act would not be a crime as it would be covered under sections 96, 97, 100 and 102 of the Penal Code, 1860.
+
+### Whether the decision of the Hon’ble High Court of Paschim Pradesh needs to be upheld?
+
+That the Hon’ble High Court’s decision is a sound decision based on impeccable logic and proper appreciation of the law and facts and should therefore be upheld.
 
 ## Issues Raised
 
+1.	Is the petition of the NGO maintainable in the Hon’ble Supreme Court of Republic of Bharati? 
+
+2.	Were Fundamental Rights given under Article 21 and Article 22 of the Constitution violated on the issues of custody and did it render subsequent custody illegal?
+
+3.	Whether a person, arrested by the Police, has a right to escape from police custody if the Police continues to detain him beyond the period authorised by law?
+
+4.	Whether there was a violation of any human rights or Fundamental Rights guaranteed under Article 21 of the Constitution, of the deceased, with respect to the Police Encounter?  
+
+5.	Did the encounter of the accused by the Police constitute a murder?
+
+6.	Whether the decision of the Hon’ble High Court of Paschim Pradesh needs to be upheld?
 
 
 ## Arguments Advanced 
