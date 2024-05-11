@@ -228,6 +228,30 @@ That the Hon’ble High Court’s decision is a sound decision based on impeccab
 
 ## Arguments Advanced 
 
+### Is the petition of the NGO maintainable in the Hon’ble Supreme Court of Republic of Bharati? 
+
+The NGO has approached the Hon’ble Supreme Court of Republic of Bharati contending violation of Human Rights and Fundamental Rights guaranteed under the Constitution. They have. 
+
+It is not clear as to under what provisions the NGO has approached the Hon’ble Supreme Court. However, there are the following provisions under which the NGO could have approached the Hon’ble Court. These are considered in seriatim:
+
+   1. Article 132 of the Constitution:
+
+   (1)	An appeal shall lie to the Supreme Court from any judgment, decree or final order of a High Court in the territory of India, whether in a civil, criminal or other proceeding, if the High Court certifies under article 134A that the case involves a substantial question of law as to the interpretation of this Constitution.
+
+   (3)	Where such a certificate is given, any party in the case may appeal to the Supreme Court on the ground that any such question as aforesaid has been wrongly decided
+
+   Article 134A of the Constitution: 
+   
+   Every High Court, passing or making a judgment, decree, final order, or sentence, referred to in clause (1) of article 132 or clause (1) of article 133, or clause (1) of article 134,-
+   
+   (a) may, if it deems fit so to do, on its own motion; and 
+   
+   (b) shall, if an oral application is made, by or on behalf of the party aggrieved, immediately after the passing or making of such judgment, decree, final order or sentence, 
+
+   determine, as soon as may be after such passing or making, the question whether a certificate of the nature referred to in clause (1) of article 132, or clause (1) of article 133 or, as the case may be, sub-clause (c) of clause (1) of article 134, may be given in respect of that case.
+
+The NGO could not have approached The Hon’ble Supreme Court under Article 132 as the condition precedent for coming under Article 132 is the issuance of a certificate by the Hon’ble High Court. The facts do not show that any such certificate was issued by the Hon’ble High Court.
+
 
 
 ## Prayer
