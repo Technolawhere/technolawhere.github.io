@@ -61,11 +61,11 @@ tags: [Constitutional Law]
 
 The Jurisdiction of the Hon'ble Supreme Court of Republic of Bharati has been invoked, by the parents of the deceased, under Article 32 of the Constitution of Republic of Bharati (hereinafter “the Constitution”). The same has been reproduced hereunder for ready reference:
 
-* **“Article 32. Remedies for enforcement of rights conferred by this Part. —**
+**“Article 32. Remedies for enforcement of rights conferred by this Part. —**
 
    1. The right to move the Supreme Court by appropriate proceedings for the enforcement of the rights conferred by this Part is guaranteed.
       
-   2. The Supreme Court shall have power to issue directions or orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, whichever may be appropriate, for the enforcement of any of the rights conferred by this Part.” *
+   2. The Supreme Court shall have power to issue directions or orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, whichever may be appropriate, for the enforcement of any of the rights conferred by this Part.” 
 
 ## Statement of Facts
 
