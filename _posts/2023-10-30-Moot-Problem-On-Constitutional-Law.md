@@ -236,52 +236,55 @@ It is not clear as to under what provisions the NGO has approached the Hon’ble
 
    1. **Article 132 of the Constitution:**
 
-      (1)	An appeal shall lie to the Supreme Court from any judgment, decree or final order of a High Court in the territory of India, whether in a civil, criminal or other proceeding, if the High Court certifies under article 134A that the case involves a substantial question of law as to the interpretation of this Constitution.
+      *(1)	An appeal shall lie to the Supreme Court from any judgment, decree or final order of a High Court in the territory of India, whether in a civil, criminal or other proceeding, if the High Court certifies under article 134A that the case involves a substantial question of law as to the interpretation of this Constitution.*
 
       ...
 
-      (3)	Where such a certificate is given, any party in the case may appeal to the Supreme Court on the ground that any such question as aforesaid has been wrongly decided
+      *(3)	Where such a certificate is given, any party in the case may appeal to the Supreme Court on the ground that any such question as aforesaid has been wrongly decided*
 
       **Article 134A of the Constitution:**
 
-      Every High Court, passing or making a judgment, decree, final order, or sentence, referred to in clause (1) of article 132 or clause (1) of article 133, or clause (1) of article 134,-
+      *Every High Court, passing or making a judgment, decree, final order, or sentence, referred to in clause (1) of article 132 or clause (1) of article 133, or clause (1) of article 134,-*
 
-      (a) may, if it deems fit so to do, on its own motion; and
+      *(a) may, if it deems fit so to do, on its own motion; and*
 
-      (b) shall, if an oral application is made, by or on behalf of the party aggrieved, immediately after the passing or making of such judgment, decree, final order or sentence,
+      *(b) shall, if an oral application is made, by or on behalf of the party aggrieved, immediately after the passing or making of such judgment, decree, final order or sentence,*
 
-      determine, as soon as may be after such passing or making, the question whether a certificate of the nature referred to in clause (1) of article 132, or clause (1) of article 133 or, as the case may be, sub-clause (c) of clause (1) of article 134, may be given in respect of that case.
+      *determine, as soon as may be after such passing or making, the question whether a certificate of the nature referred to in clause (1) of article 132, or clause (1) of article 133 or, as the case may be, sub-clause (c) of clause (1) of article 134, may be given in respect of that case.*
 
 The NGO could not have approached The Hon’ble Supreme Court under Article 132 as the condition precedent for coming under Article 132 is the issuance of a certificate by the Hon’ble High Court. The facts do not show that any such certificate was issued by the Hon’ble High Court.
 
   2.	**Article 133:**
 
-   (1) An appeal shall lie to the Supreme Court from any judgment, decree or final order in a civil proceeding of a High Court in the territory of India if the High Court certifies under article 134A—
+   *(1) An appeal shall lie to the Supreme Court from any judgment, decree or final order in a civil proceeding of a High Court in the territory of India if the High Court certifies under article 134A—*
 
-  a.	that the case involves a substantial question of law of general importance; and
+  *a.	that the case involves a substantial question of law of general importance; and*
 
-  b.	that in the opinion of the High Court the said question needs to be decided by the Supreme Court.
+  *b.	that in the opinion of the High Court the said question needs to be decided by the Supreme Court.*
 
-  (2) Notwithstanding anything in article 132, any party appealing to the Supreme Court under clause (1) may urge as one of the grounds in such appeal that a substantial question of law as to the interpretation of this Constitution has been wrongly decided.
+  *(2) Notwithstanding anything in article 132, any party appealing to the Supreme Court under clause (1) may urge as one of the grounds in such appeal that a substantial question of law as to the interpretation of this Constitution has been wrongly decided.*
 
-  (3) Notwithstanding anything in this article, no appeal shall, unless Parliament by law otherwise provides, lie to the Supreme Court from the judgment, decree or final order of one Judge of a High Court.
+  *(3) Notwithstanding anything in this article, no appeal shall, unless Parliament by law otherwise provides, lie to the Supreme Court from the judgment, decree or final order of one Judge of a High Court.*
 
 The NGO could not have approached The Hon’ble Supreme Court under Article 133 as the condition precedent for coming under Article 133 is the issuance of a certificate by the Hon’ble High Court. The facts do not show that any such certificate was issued by the Hon’ble High Court.
 
-   3. Article 134:
-      (1)	An appeal shall lie to the Supreme Court from any judgment, final order or sentence in a criminal proceeding of a High Court in the territory of India if the High Court-
+   3. **Article 134**:
+      
+      *(1)	An appeal shall lie to the Supreme Court from any judgment, final order or sentence in a criminal proceeding of a High Court in the territory of India if the High Court-*
 
-      a.	has on appeal reversed an order of acquittal of an accused person and sentenced him to death; or
+      *a.	has on appeal reversed an order of acquittal of an accused person and sentenced him to death; or*
 
-      b.	has withdrawn for trial before itself any case from any court subordinate to its authority and has in such trial convicted the accused person and sentenced him to death; or
+      *b.	has withdrawn for trial before itself any case from any court subordinate to its authority and has in such trial convicted the accused person and sentenced him to death; or*
 
-      c.	certifies under article 134A that the case is a fit one for appeal to the Supreme Court:
+      *c.	certifies under article 134A that the case is a fit one for appeal to the Supreme Court:*
 
-      i.	Provided that an appeal under sub-clause (c) shall lie subject to such provisions as may be made in that behalf under clause (1) of article 145 and to such conditions as the High Court may establish or require. (2) Parliament may by law confer on the Supreme Court any further powers to entertain and hear appeals from any judgment, final order or sentence in a criminal proceeding of a High Court in the territory of India subject to such conditions and limitations as may be specified in such law.
+      *i.	Provided that an appeal under sub-clause (c) shall lie subject to such provisions as may be made in that behalf under clause (1) of article 145 and to such conditions as the High Court may establish or require. (2) Parliament may by law confer on the Supreme Court any further powers to entertain and hear appeals from any judgment, final order or sentence in a criminal proceeding of a High Court in the territory of India subject to such conditions and limitations as may be specified in such law.*
 
 The NGO also could not have approached The Hon’ble Supreme Court under Article 134 as the condition precedent for coming under Article 134 is either a sentencing of death of the accused or the issuance of a certificate by the Hon’ble High Court. The facts do not show the presence of either of the things.
 
-   4. **Article 136:** (1) Notwithstanding anything in this Chapter, the Supreme Court may, in its discretion, grant special leave to appeal from any judgment, decree, determination, sentence or order in any cause or matter passed or made by any court or tribunal in the territory of India.
+   4. **Article 136:**
+
+      *(1) Notwithstanding anything in this Chapter, the Supreme Court may, in its discretion, grant special leave to appeal from any judgment, decree, determination, sentence or order in any cause or matter passed or made by any court or tribunal in the territory of India.*
 
 In this context reliance is placed upon certain decisions of the Hon’ble Supreme Court: 
 In **Pritam Singh v. State, AIR 1950 SC 169** , the Constitution Bench held that while court has wide discretionary power under Article 136, yet it is to be exercised sparingly and in exceptional cases only *‘Court will not grant special leave, unless it is shown that exceptional and special circumstances exist, that substantial and grave injustice has been done and that the case in question presents features of sufficient gravity to warrant a review of the decision appealed against…’*
@@ -294,7 +297,7 @@ On merits, as no infirmity or perpetuation of injustice has been pointed out aga
 
    5. Petition under Article 32:
 
-Guidelines to be followed while filing petitions in the Hon’ble Supreme Court have been summarised by the Hon’ble Court in a document titled “Compilation of Guidelines to be followed for entertaining letters/ petitions received” and relevant parts have been mentioned under for ready reference:
+Guidelines to be followed while filing petitions in the Hon’ble Supreme Court have been summarised by the Hon’ble Court in a document titled **“Compilation of Guidelines to be followed for entertaining letters/ petitions received”** and relevant parts have been mentioned under for ready reference:
 
 *“Letter-petitions falling under the following categories alone will ordinarily be entertained as Public Interest Litigation:-*
 
@@ -332,7 +335,7 @@ Similarly, as the Hon’ble High Court, after considering all the facts and argu
 
 Without prejudice to submissions made in the preceding issue, even if for the sake of argument, it is presumed that there was non-production before a Magistrate within 24 hours of the arrest and even after the expiry of 7 day remand, no further remand was obtained, the question is whether this renders the police custody of the deceased at the time of their death, illegal?
 
-It is conceded that if this was the case, then in terms of the decision of the Hon’ble Allahabad High Court, dated 28.03.2023 in the case of Manoj Kumar Gupta vs State of U.P. And Another, the police custody became illegal after 24 hours on account of non-production before the Magistrate. It has also been held in this case that this defect is not cured by the obtaining a subsequent remand from the mag. In such a situation, the arrested person becomes entitled to default bail under section 167 of the Cr.P.C.
+It is conceded that if this was the case, then in terms of the decision of the Hon’ble Allahabad High Court, dated 28.03.2023 in the case of **Manoj Kumar Gupta vs State of U.P. And Another**, the police custody became illegal after 24 hours on account of non-production before the Magistrate. It has also been held in this case that this defect is not cured by the obtaining a subsequent remand from the mag. In such a situation, the arrested person becomes entitled to default bail under section 167 of the Cr.P.C.
 
 The point to be noted is that there is no right given to the accused to walk free on their own after their period of detention, as authorised by law, comes to an end. The law provides remedy against such actions by means of seeking bail or by filing a writ petition in a court of law for any such irregular detentions. Nowhere does the law provide a right to the accused, who are in such a custody, to walk free from it on their own. The remedy only lies in a court of law. The attempt to escape made by the four accused on the day they were being taken to the Court was illegal because the police officers were doing their duty in taking them to the court and the accused, in trying to escape by assaulting the police officers were obstructing that duty.
 
