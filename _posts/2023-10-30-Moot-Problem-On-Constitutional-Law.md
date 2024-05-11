@@ -254,17 +254,17 @@ It is not clear as to under what provisions the NGO has approached the Hon’ble
 
 The NGO could not have approached The Hon’ble Supreme Court under Article 132 as the condition precedent for coming under Article 132 is the issuance of a certificate by the Hon’ble High Court. The facts do not show that any such certificate was issued by the Hon’ble High Court.
 
-   2.	**Article 133:**
+  2.	**Article 133:**
 
-     	(1) An appeal shall lie to the Supreme Court from any judgment, decree or final order in a civil proceeding of a High Court in the territory of India if the High Court certifies under article 134A—
+   (1) An appeal shall lie to the Supreme Court from any judgment, decree or final order in a civil proceeding of a High Court in the territory of India if the High Court certifies under article 134A—
 
-     	a.	that the case involves a substantial question of law of general importance; and
+  a.	that the case involves a substantial question of law of general importance; and
 
-     	b.	that in the opinion of the High Court the said question needs to be decided by the Supreme Court.
+  b.	that in the opinion of the High Court the said question needs to be decided by the Supreme Court.
 
-     	(2) Notwithstanding anything in article 132, any party appealing to the Supreme Court under clause (1) may urge as one of the grounds in such appeal that a substantial question of law as to the interpretation of this Constitution has been wrongly decided.
+  (2) Notwithstanding anything in article 132, any party appealing to the Supreme Court under clause (1) may urge as one of the grounds in such appeal that a substantial question of law as to the interpretation of this Constitution has been wrongly decided.
 
-     	(3) Notwithstanding anything in this article, no appeal shall, unless Parliament by law otherwise provides, lie to the Supreme Court from the judgment, decree or final order of one Judge of a High Court.
+  (3) Notwithstanding anything in this article, no appeal shall, unless Parliament by law otherwise provides, lie to the Supreme Court from the judgment, decree or final order of one Judge of a High Court.
 
 The NGO could not have approached The Hon’ble Supreme Court under Article 133 as the condition precedent for coming under Article 133 is the issuance of a certificate by the Hon’ble High Court. The facts do not show that any such certificate was issued by the Hon’ble High Court.
 
@@ -286,7 +286,7 @@ The NGO also could not have approached The Hon’ble Supreme Court under Article
 In this context reliance is placed upon certain decisions of the Hon’ble Supreme Court: 
 In **Pritam Singh v. State, AIR 1950 SC 169** , the Constitution Bench held that while court has wide discretionary power under Article 136, yet it is to be exercised sparingly and in exceptional cases only *‘Court will not grant special leave, unless it is shown that exceptional and special circumstances exist, that substantial and grave injustice has been done and that the case in question presents features of sufficient gravity to warrant a review of the decision appealed against…’*
 
-In Mohammad Latief Magrey vs The Union Territory Of Jammu... Dated 12 September, 2022 (CIVIL APPEAL NO. 6544 OF 2022(@ SLP (C) NO.12743 OF 2022)), it was observed that –
+In **Mohammad Latief Magrey vs The Union Territory Of Jammu... Dated 12 September, 2022 (CIVIL APPEAL NO. 6544 OF 2022(@ SLP (C) NO.12743 OF 2022))**, it was observed that –
 
 *“50. Thus, the principles of law discernible from the aforesaid are that unless, it is shown that exceptional and special circumstances exist; that substantial and grave injustice has been done and the case and question presents features of sufficient gravity to warrant a review of the decision appealed against, this Court would not exercise its overriding powers under Article 136 (1) of the Constitution. The wide discretionary power with which this Court is invested under Article 136 is to be exercised sparingly and in exceptional cases only. Keeping these principles in mind, we need to decide whether the relief prayed for by the appellant should be granted or not?...”*
 
