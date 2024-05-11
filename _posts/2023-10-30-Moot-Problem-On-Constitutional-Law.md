@@ -125,9 +125,9 @@ Respondent
 
 ### Statutes Mentioned
 
-  * Indian Penal Code, 1860
-  * The Police Act, 1861
-  *	Criminal Procedure Code, 1973
+  * [Indian Penal Code, 1860](https://www.indiacode.nic.in/handle/123456789/2263?sam_handle=123456789/1362)
+  * [The Police Act, 1861](https://www.indiacode.nic.in/handle/123456789/2264?sam_handle=123456789/1362)
+  *	[Criminal Procedure Code, 1973](https://www.indiacode.nic.in/handle/123456789/16225?sam_handle=123456789/1362)
 
 ### Reports and Guidelines
 
@@ -136,19 +136,19 @@ Respondent
 
 ### International Documents
 
-  * International Covenant on Civil and Political Rights, adopted on16.12.1996 by UNGA Resolution 2200A (XXI), Entry into force 23 March 1976.
+  * [International Covenant on Civil and Political Rights, adopted on16.12.1996 by UNGA Resolution 2200A (XXI), Entry into force 23 March 1976.](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights)
 
 ### Cases Cited
 
-  * Pritam Singh v. State, AIR 1950 SC 169
+  * [Pritam Singh v. State, AIR 1950 SC 169](https://indiankanoon.org/doc/743851/)
     
-  * Mohammad Latief Magrey vs The Union Territory Of Jammu... Dated 12 September, 2022 (CIVIL APPEAL NO. 6544 OF 2022(@ SLP (C) NO.12743 OF 2022))
+  * [Mohammad Latief Magrey vs The Union Territory Of Jammu... Dated 12 September, 2022 (CIVIL APPEAL NO. 6544 OF 2022(@ SLP (C) NO.12743 OF 2022))](https://indiankanoon.org/doc/117013093/)
     
   * [Manoj Kumar Gupta vs State of U.P. And Another Allahabad High Court (UNREPORTED)](https://indiankanoon.org/doc/109559256/)
 
 ### Websites
 
-  * Indiacode.nic.in (For all statutes)
+  * [Indiacode (For all statutes)](https://www.indiacode.nic.in/)
 
 ## Statement of Jurisdiction
 
