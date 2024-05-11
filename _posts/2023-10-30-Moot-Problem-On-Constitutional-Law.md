@@ -234,7 +234,7 @@ The NGO has approached the Hon’ble Supreme Court of Republic of Bharati conten
 
 It is not clear as to under what provisions the NGO has approached the Hon’ble Supreme Court. However, there are the following provisions under which the NGO could have approached the Hon’ble Court. These are considered in seriatim:
 
-   1. **Article 132 of the Constitution:**
+   * **Article 132 of the Constitution:**
 
       *(1)	An appeal shall lie to the Supreme Court from any judgment, decree or final order of a High Court in the territory of India, whether in a civil, criminal or other proceeding, if the High Court certifies under article 134A that the case involves a substantial question of law as to the interpretation of this Constitution.*
 
@@ -254,7 +254,7 @@ It is not clear as to under what provisions the NGO has approached the Hon’ble
 
 The NGO could not have approached The Hon’ble Supreme Court under Article 132 as the condition precedent for coming under Article 132 is the issuance of a certificate by the Hon’ble High Court. The facts do not show that any such certificate was issued by the Hon’ble High Court.
 
-  2.	**Article 133:**
+  *	**Article 133:**
 
    *(1) An appeal shall lie to the Supreme Court from any judgment, decree or final order in a civil proceeding of a High Court in the territory of India if the High Court certifies under article 134A—*
 
@@ -268,7 +268,7 @@ The NGO could not have approached The Hon’ble Supreme Court under Article 132 
 
 The NGO could not have approached The Hon’ble Supreme Court under Article 133 as the condition precedent for coming under Article 133 is the issuance of a certificate by the Hon’ble High Court. The facts do not show that any such certificate was issued by the Hon’ble High Court.
 
-   3. **Article 134**:
+   * **Article 134**:
       
       *(1)	An appeal shall lie to the Supreme Court from any judgment, final order or sentence in a criminal proceeding of a High Court in the territory of India if the High Court-*
 
@@ -282,7 +282,7 @@ The NGO could not have approached The Hon’ble Supreme Court under Article 133 
 
 The NGO also could not have approached The Hon’ble Supreme Court under Article 134 as the condition precedent for coming under Article 134 is either a sentencing of death of the accused or the issuance of a certificate by the Hon’ble High Court. The facts do not show the presence of either of the things.
 
-   4. **Article 136:**
+   * **Article 136:**
 
       *(1) Notwithstanding anything in this Chapter, the Supreme Court may, in its discretion, grant special leave to appeal from any judgment, decree, determination, sentence or order in any cause or matter passed or made by any court or tribunal in the territory of India.*
 
@@ -295,7 +295,7 @@ In **Mohammad Latief Magrey vs The Union Territory Of Jammu... Dated 12 Septembe
 
 On merits, as no infirmity or perpetuation of injustice has been pointed out against the Hon’ble High Court order, there is no ground for granting a special leave to admit a challenge against the order of the Hon’ble High Court.
 
-   5. Petition under Article 32:
+   * Petition under Article 32:
 
 Guidelines to be followed while filing petitions in the Hon’ble Supreme Court have been summarised by the Hon’ble Court in a document titled **“Compilation of Guidelines to be followed for entertaining letters/ petitions received”** and relevant parts have been mentioned under for ready reference:
 
