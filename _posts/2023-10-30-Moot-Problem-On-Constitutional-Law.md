@@ -158,6 +158,27 @@ The Jurisdiction of the Hon'ble Supreme Court of Republic of Bharati has been in
 
 ## Statement of Facts
 
+   1. On 1.09.2023 at around 9:30 P.M. Ira, a young girl, was going on her scooty when she stopped to help 4 men who were standing beside a highway. Two of them started to accompany her to a distant secluded place, telling her that their friend was lying injured there.  Upon realising that she had left her phone in the scooty, she went back and found her scooty punctured. At 9:35 P.M. she called her sister Arna and told her that her scooty had broken down and she was alone on the road.
+
+   2. Suddenly, the two men, who had asked for help accompanied by two other men came towards her. After an altercation they dragged her to a distant place and raped her one by one. They then poured petroleum on her and burnt her alive till she was dead. Then they ran towards a nearby village.
+
+   3. On 8.09.2023 at around 06:00 A.M., a farmer found the partially burnt body at an underpass on the Paschim National Highway. The Police was informed about it. The family members, who had filed a missing person report about Ira, identified the body of Ira with the help of her handbag and scarf.
+
+   4. Police investigation recovered a CCTV footage from a camera placed near the highway. It showed some faces recorded at 10:00 P.M.. Based on this the Police carried out further investigation and enquiries and arrested Manas, Raju, Naval, Keshav on 20.09.2023. On 24.09.2023, the Police presented the four accused in front of the local Magistrate and requested for a 7 days remand for further investigation.
+
+   5. This case caused a media frenzy and public uproar. The Government took initiative for speedy disposal of the case. Amidst the remand period, the entire country protested with candle light marches and various high-profile personalities also got involved in the protests.
+
+   6. On 3.10.2023 the Media reported that the four accused had been shot dead by the Police while they were being taken to the Court. The Investigation In-Charge in the Interview stated that Naval and Keshav snatched the revolvers from the Constables while they were being taken to the Court, jumped out of the Police Van and fired two rounds in the air. Manas and Raju also followed them and tried to escape. The Police claimed that they found no other ways and had to take down the four accused otherwise they would have fled.
+
+   7. The families of the deceased and the human right groups alleged that the Police took law in its own hands and termed this as an extra-judicial killing. The families also alleged that the police officers have framed the murder scene as they had threatened them when they went to the police station. That the Police officers angrily told them that the accused stand no chance of being saved from death as the entire Nation was against their act.
+
+   8. Nagarik Suraksha, an NGO, filed a Petition before the Hon’ble High Court of Paschim Pradesh. The Hon’ble High Court after hearing all the arguments of the case held:
+
+      “The Police had no other option but to shoot the four accused failing to which they would have fled and which would have triggered mass and widespread agitation throughout the Nation and the Role of the Police would have been in question. Therefore, the Court finds the Act of the Police as an Act of Bravery and sudden reflex to counter the situation which arose in front of them.”
+
+   10. The NGO has now approached the Hon’ble Supreme Court of Republic of Bharati contending violation of Human Rights and Fundamental Rights guaranteed under the Constitution. The families of the deceased have also filed a writ petition under Article 32 of the Constitution before the Hon’ble Supreme Court seeking registration of murder case against the police officers involved alleging that the youth were killed in a stage-managed gunfight.
+
+   11. Hon'ble Supreme Court has clubbed these petitions and the same are now pending before it.
 
 
 ## Summary of Arguments 
