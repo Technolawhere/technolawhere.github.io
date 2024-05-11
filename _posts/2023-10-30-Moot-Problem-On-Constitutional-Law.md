@@ -256,15 +256,15 @@ The NGO could not have approached The Hon’ble Supreme Court under Article 132 
 
   *	**Article 133:**
 
-   *(1) An appeal shall lie to the Supreme Court from any judgment, decree or final order in a civil proceeding of a High Court in the territory of India if the High Court certifies under article 134A—*
+      *(1) An appeal shall lie to the Supreme Court from any judgment, decree or final order in a civil proceeding of a High Court in the territory of India if the High Court certifies under article 134A—*
 
-  *a.	that the case involves a substantial question of law of general importance; and*
+      *a.	that the case involves a substantial question of law of general importance; and*
 
-  *b.	that in the opinion of the High Court the said question needs to be decided by the Supreme Court.*
+      *b.	that in the opinion of the High Court the said question needs to be decided by the Supreme Court.*
 
-  *(2) Notwithstanding anything in article 132, any party appealing to the Supreme Court under clause (1) may urge as one of the grounds in such appeal that a substantial question of law as to the interpretation of this Constitution has been wrongly decided.*
+      *(2) Notwithstanding anything in article 132, any party appealing to the Supreme Court under clause (1) may urge as one of the grounds in such appeal that a substantial question of law as to the interpretation of this Constitution has been wrongly decided.*
 
-  *(3) Notwithstanding anything in this article, no appeal shall, unless Parliament by law otherwise provides, lie to the Supreme Court from the judgment, decree or final order of one Judge of a High Court.*
+      *(3) Notwithstanding anything in this article, no appeal shall, unless Parliament by law otherwise provides, lie to the Supreme Court from the judgment, decree or final order of one Judge of a High Court.*
 
 The NGO could not have approached The Hon’ble Supreme Court under Article 133 as the condition precedent for coming under Article 133 is the issuance of a certificate by the Hon’ble High Court. The facts do not show that any such certificate was issued by the Hon’ble High Court.
 
@@ -295,7 +295,7 @@ In **Mohammad Latief Magrey vs The Union Territory Of Jammu... Dated 12 Septembe
 
 On merits, as no infirmity or perpetuation of injustice has been pointed out against the Hon’ble High Court order, there is no ground for granting a special leave to admit a challenge against the order of the Hon’ble High Court.
 
-   * Petition under Article 32:
+   * **Petition under Article 32:**
 
 Guidelines to be followed while filing petitions in the Hon’ble Supreme Court have been summarised by the Hon’ble Court in a document titled **“Compilation of Guidelines to be followed for entertaining letters/ petitions received”** and relevant parts have been mentioned under for ready reference:
 
