@@ -47,13 +47,15 @@ tags: [Constitutional Law]
 
 ### Cases Cited
 
-   *Pritam Singh v. State, AIR 1950 SC 169
-   *Mohammad Latief Magrey vs The Union Territory Of Jammu... Dated 12 September, 2022 (CIVIL APPEAL NO. 6544 OF 2022(@ SLP (C) NO.12743 OF 2022))
-   *[ Manoj Kumar Gupta vs State of U.P. And Another Allahabad High Court (UNREPORTED) ] (https://indiankanoon.org/doc/109559256/)
+  * Pritam Singh v. State, AIR 1950 SC 169
+    
+  * Mohammad Latief Magrey vs The Union Territory Of Jammu... Dated 12 September, 2022 (CIVIL APPEAL NO. 6544 OF 2022(@ SLP (C) NO.12743 OF 2022))
+    
+  * [ Manoj Kumar Gupta vs State of U.P. And Another Allahabad High Court (UNREPORTED) ] (https://indiankanoon.org/doc/109559256/)
 
 ### Websites
 
-   *Indiacode.nic.in (For all statutes)
+  * Indiacode.nic.in (For all statutes)
 
 ## Statement of Jurisdiction
 
@@ -61,9 +63,9 @@ The Jurisdiction of the Hon'ble Supreme Court of Republic of Bharati has been in
 
 * **“Article 32. Remedies for enforcement of rights conferred by this Part. —**
 
-   1.The right to move the Supreme Court by appropriate proceedings for the enforcement of the rights conferred by this Part is guaranteed.
-   
-   2. The Supreme Court shall have power to issue directions or orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, whichever may be appropriate, for the enforcement of any of the rights conferred by this Part.”*
+   1. The right to move the Supreme Court by appropriate proceedings for the enforcement of the rights conferred by this Part is guaranteed.
+      
+   2. The Supreme Court shall have power to issue directions or orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, whichever may be appropriate, for the enforcement of any of the rights conferred by this Part.” *
 
 ## Statement of Facts
 
