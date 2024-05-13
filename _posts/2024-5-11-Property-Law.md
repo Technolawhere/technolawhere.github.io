@@ -118,34 +118,3 @@ crops nor grass
 
 ### Cases Related to Immovable Property
 
-* [Shantabai v. State of Bombay, AIR 1958 SC 532 : (1959) SCR 265](https://pranavsaksena.com/posts/Shantabai-v.-State-of-Bombay/)
-
-* [State of Orissa v. Titaghur Paper Mills Company Limited, AIR 1985 SC 1293 : (1985) Supp SCC 280]() 
-
-## Movable Property
-
-* Not defined in TPA
-
-* General Clause defines it u/s 3(36) as:
-
->"movable property" shall mean property of every description, except immovable property;
-
-* Examples include:
-  
-   * Standing Timber
-     
-   * Growing Crops
-     
-   * Grass
- 
-   * A machinery not attached to earth and which can be shifted from one place to another.
- 
-   * Royalty
-
- ### Cases Related to Movable Property
-
- * [Bamadev Panigrahi v. Monorama Raj, AIR 1974 AP 226]()
-
- * [Duncans Industries Ltd. v. State of U.P. (2000)1 SCC 633]()
-
- * xxx
