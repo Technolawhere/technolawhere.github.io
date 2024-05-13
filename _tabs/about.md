@@ -17,10 +17,11 @@ career in patent law or intellectual property management.
 
 |University|Course|Marks/Grade
 |-----------|-----------|-------|
-|Faculty of Law, Delhi University, New Delhi|Bachelor of Laws (LL. B.)|NA (Ongoing)|
-|National Institute of Technology Delhi, New Delhi|Bachelor of Technology (B. Tech.) in Electrical and Electronics Engineering|8.84 CGPA, Gold Medalist, First Division with Distinction|
-|Delhi Public School, R. K. Puram, New Delhi|Class XII, CBSE|94%|
-|Delhi Public School, R. K. Puram, New Delhi|Class X, CBSE|10 CGPA
+|Faculty of Law, <br />Delhi University, <br />New Delhi|Bachelor of Laws <br />(LL. B.)|NA (Ongoing)|
+|National Institute of Technology Delhi, <br />New Delhi|Bachelor of Technology (B. Tech.) <br />in Electrical and Electronics Engineering|8.84 CGPA, <br />Gold Medalist, <br />First Division with Distinction|
+|Delhi Public School, R. K. Puram, <br />New Delhi|Class XII, CBSE|94%|
+|Delhi Public School, R. K. Puram, <br />New Delhi|Class X, CBSE|10 CGPA|
+|Don Bosco, Park Circus, <br />Kolkata|Till Class VIII|NA|
 
 ## My Major Electronics Projects
 
