@@ -21,7 +21,7 @@ career in patent law or intellectual property management.
 |National Institute of Technology Delhi, <br />New Delhi|Bachelor of Technology (B. Tech.) <br />in Electrical and Electronics Engineering|8.84 CGPA, <br />Gold Medalist, <br />First Division with Distinction|
 |Delhi Public School, R. K. Puram, <br />New Delhi|Class XII, CBSE|94%|
 |Delhi Public School, R. K. Puram, <br />New Delhi|Class X, CBSE|10 CGPA|
-|Don Bosco, Park Circus, <br />Kolkata|Till Class VIII|NA|
+|Don Bosco, Park Circus, <br />Kolkata|Till Class VIII, ICSE|NA|
 
 ## My Major Electronics Projects
 
