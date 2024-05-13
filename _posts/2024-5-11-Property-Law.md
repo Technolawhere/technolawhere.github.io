@@ -88,10 +88,14 @@ crops nor grass
         * Defined u/s 3, TPA, 1882:
       
           > “attached to the earth” means—
+          > 
           > (a) rooted in the earth, as in the case of trees and shrubs;
+          > 
           > (b) imbedded in the earth, as in the case of walls or buildings; or
+          > 
           > (c) attached to what is so imbedded for the permanent beneficial enjoyment of that to which it is
-          > attached 
+          > 
+          > attached
 
         * Tests to determine whether a movable property has acquired an immovable nature based on how it is attached to an immovable property:
            1. Degree/ Mode of annexation:
