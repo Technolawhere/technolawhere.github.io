@@ -115,3 +115,11 @@ crops nor grass
               * However, if movable property is attached to serve a temporary purpose, then it would not become an immovable property solely because it is attached to an immovable property. E.g. a tenant fixing a light fixture in the rented accommodation doesn't do so with the intention to permanently benefit the house.
              
               * Thus, circumstances of each case along with the underlying intention are important factors to consider.
+
+### Cases Related to Immovable Property
+
+* [Shantabai v. State of Bombay, AIR 1958 SC 532 : (1959) SCR 265]()
+
+* [State of Orissa v. Titaghur Paper Mills Company Limited, AIR 1985 SC 1293 : (1985) Supp SCC 280]() 
+
+## Movable Property
