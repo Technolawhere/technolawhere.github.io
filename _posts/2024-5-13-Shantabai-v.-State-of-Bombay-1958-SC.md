@@ -10,3 +10,4 @@ Judge: VIVIAN BOSE, J
 
 ## Facts
 
+* A lease was executed by a zamindar in favour of his wife.
