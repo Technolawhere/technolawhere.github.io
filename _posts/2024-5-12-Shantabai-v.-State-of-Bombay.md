@@ -1,6 +1,6 @@
 ---
 title: "Shantabai v. State of Bombay, AIR 1958 SC"
-date: 2024-5-13 00:00:00 +0530
+date: 2024-5-12 00:00:00 +0530
 categories: [Case Summaries]
 tags: [Immovable Property, Property Law]
 ---
