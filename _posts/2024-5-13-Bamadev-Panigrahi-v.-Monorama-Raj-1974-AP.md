@@ -80,18 +80,18 @@ High Court held that equipment of the touring cinema which is capable of being r
  
    * **Summary of tests** that can be used to answer such issues are:
  
-     1. What is the intendment, object and purpose of installing the machinery – Whether it
-is the beneficial enjoyment of the building, land or structure, or the enjoyment of the very machinery?
+     1. **What is the intendment, object and purpose of installing the machinery – Whether it
+is the beneficial enjoyment of the building, land or structure, or the enjoyment of the very machinery?**
 
         * APPLICATION TO THE PRESENT CASE: Object was to run a temporary cinema. Name " Touring Talkies" reflects the same. It, along all the auxiliaries, will be moved freely from place depending upon the demand and the convenience of the proprietor. The lessee or the usufructuary mortgage of the land, in installing the diesel oil engine, cinema projector etc., must invariably have intended to make use of the said equipment during the limited lease period and thereafter, separate the same from the land, as he was not interested in the improvement of the land belonging to another
  
         * The intendment, object and purpose of installing the cinema equipment in question, was only to have the beneficial enjoyment of the very equipment during the period of the lease or mortgage.
     
-     3. The degree and manner of attachment or annexation of the machinery to the earth.
+     3. **The degree and manner of attachment or annexation of the machinery to the earth.**
     
         * APPLICATION TO THE PRESENT CASE: Diesel oil engine and the cinema projector are not rooted in the earth as in the case of trees and shrubs, or imbedded in the earth as in the case of walls or buildings or attached to what is so imbedded for the permanent beneficial enjoyment of that to which they are attached.
     
-     5. Whether owner of the building installed the said machinery or not?
+     5. **Whether owner of the building installed the said machinery or not?**
         
         * If installed by the owner, it is normally inferred unless contrary is proved that the installation was for the beneficial enjoyment of the entire building.
           
