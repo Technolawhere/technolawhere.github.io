@@ -153,10 +153,8 @@ crops nor grass
 
 | S. No. | Immovable Property | Movable Property |
 | -------- | -------- | ------- |
-| 1. | S.3 of General Clauses Act: <br />Land, benefits arising out <br />of it and things attached to earth| S.2 Sale of Goods Act: <br />every kind of moveable property <br />other than actionable claims <br />and money; and 
-includes stock <br />and shares, growing crops, <br />grass, and things attached to or <br />forming part of the land 
-which <br />are agreed to be severed <br />before sale or under the contract <br />of sale|
-| 2. | Fixed to earth even slightly <br />or caused to go deeper by an <br />external agent | if resting on its own weight, <br />presumption of it being movable|
+| 1. | S.3 of General Clauses Act: <br />Land, benefits arising out <br />of it and things attached to earth | S.2 Sale of Goods Act: <br />every kind of moveable property <br />other than actionable claims <br />and money; and includes stock <br />and shares, growing crops, <br />grass, and things attached to or <br />forming part of the land which <br />are agreed to be severed <br />before sale or under the contract <br />of sale |
+| 2. | Fixed to earth even slightly <br />or caused to go deeper by an <br />external agent | if resting on its own weight, <br />presumption of it being movable |
 | 3. | Purpose of annexation is to <br />confer permanent benefit to land | Purpose of annexation is for <br />enjoyment of chattel alone |
-| 4. | Registration is req. if <br />value of property is above <br />Rs.99 (S.54) | No registration is required|
+| 4. | Registration is req. if <br />value of property is above <br />Rs.99 (S.54) | No registration is required |
 
