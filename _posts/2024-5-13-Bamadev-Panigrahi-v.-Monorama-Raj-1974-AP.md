@@ -7,6 +7,8 @@ tags: [Movable Property, Property Law]
 
 # Bamadev Panigrahi v. Monorama Raj, AIR 1974 AP 226
 
+JUDGE: KONDAIAH
+
 ## Facts
 
 * the plaintiff mortgaged a piece of land from the Raja of Mandasa with a view to run touring cinema in that place.
