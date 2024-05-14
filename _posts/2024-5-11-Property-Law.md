@@ -158,3 +158,51 @@ crops nor grass
 | 3. | Purpose of annexation is to <br />confer permanent benefit to land | Purpose of annexation is for <br />enjoyment of chattel alone |
 | 4. | Registration is req. if <br />value of property is above <br />Rs.99 (S.54) | No registration is required |
 
+## Attestation
+
+* S.3 of TPA, 1882 defines attestation as:
+
+> “attested”, in relation to an instrument, means and shall be deemed always to have 
+meant attested by two or more witnesses each of whom has seen the executant sign or affix 
+his mark to the instrument, or has seen some other person sign the instrument in the 
+presence and by the direction of the executant, or has received from the executant a personal 
+acknowledgement of his signature or mark, or of the signature of such other person, and 
+each of whom has signed the instrument in the presence of the executant; but it shall not be 
+necessary that more than one of such witnesses shall have been present at the same time, and 
+no particular form of attestation shall be necessary
+
+* Components of Valid Attestation:
+  
+   1. Two or more attesting witnesses
+ 
+   2. Ordinarily necessary that each witness must see:
+      
+      3. **Executant sign** or put his mark
+         
+      5. Or **some other person sign** the instrument **in presence and by direction** of executant
+     
+      6. or should have **received from executant personal acknowledgement** of either of the above-mentioned acts
+        
+         Thus, witnessing actual execution of the deed is not necessary
+
+   3. Each witness must attest in the presence of the executant
+ 
+   4. Attestation must be done only after execution is complete, otherwise not valid. (Sant Lal v. Kamla Prasad 1952 SC)
+ 
+   5. All witnesses need not attest at the same time
+ 
+   6. No particular form of attestation need be adhered to
+ 
+   7. Attestation does not estop the attestant. Her signing is no proof that she is aware of the contents of the document.
+ 
+   8. Mere presence of the signature of the attestant is insufficient. There should be *Animo Attestandi* (i.e. intention to attest) as well.
+ 
+   9. A person who is a party to transfer cannot be an attesting witness but party interested in transaction can be a witness.
+ 
+### Cases related to Attestation
+
+* Kumar Harish Chandra Singh Deo v. Bansidhar Mohanty, AIR 1965 SC 1738 : (1966) 1 SCR 153
+
+* M.L .Abdul Jabbar Sahib v. H. Venkata Sastri, AIR 1969 SC 1147 : (1969) 1 SCC 573
+
+* Padarath Halwai v. Ram Narain, AIR 1915 PC 21
