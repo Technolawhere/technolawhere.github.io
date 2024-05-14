@@ -145,7 +145,7 @@ crops nor grass
 
  ### Cases Related to Movable Property
 
- * Bamadev Panigrahi v. Monorama Raj, AIR 1974 AP 226
+ * [Bamadev Panigrahi v. Monorama Raj, AIR 1974 AP 226](https://pranavsaksena.com/posts/Bamadev-Panigrahi-v.-Monorama-Raj-1974-AP)
 
  * Duncans Industries Ltd. v. State of U.P. (2000)1 SCC 633
 
