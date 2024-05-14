@@ -40,7 +40,7 @@ attached to the earth or permanently fastened to anything attached to the earth.
   
    * In **Holland v. Hodgson (1872) 7 CP 328**, the Court said that **the degree of annexation** and **the object of the annexation** needs to be considered while deciding such questions. Application of general maxim that what is annexed to the land becomes part of the land is very difficult to apply and does not yield precise results always.
  
-   * Leigh v. Taylor (1902) AC 157, 161, the court observed that the following things need to be considered in order to determine whether a movable property like tapestries have become a part of the house (immovable property):
+   * **Leigh v. Taylor (1902) AC 157, 161**, the court observed that the following things need to be considered in order to determine whether a movable property like tapestries have become a part of the house (immovable property):
      
       * Fashion of times
         
@@ -89,7 +89,7 @@ is the beneficial enjoyment of the building, land or structure, or the enjoyment
     
      3. The degree and manner of attachment or annexation of the machinery to the earth.
     
-        * Diesel oil engine and the cinema projector are not rooted in the earth as in the case of trees and shrubs, or imbedded in the earth as in the case of walls or buildings or attached to what is so imbedded for the permanent beneficial enjoyment of that to which they are attached.
+        * APPLICATION TO THE PRESENT CASE: Diesel oil engine and the cinema projector are not rooted in the earth as in the case of trees and shrubs, or imbedded in the earth as in the case of walls or buildings or attached to what is so imbedded for the permanent beneficial enjoyment of that to which they are attached.
     
      5. Whether owner of the building installed the said machinery or not?
         
