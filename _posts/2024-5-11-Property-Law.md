@@ -143,7 +143,7 @@ crops nor grass
  
    * Royalty
 
- ### Cases Related to Movable Property
+### Cases Related to Movable Property
 
  * [Bamadev Panigrahi v. Monorama Raj, AIR 1974 AP 226](https://pranavsaksena.com/posts/Bamadev-Panigrahi-v.-Monorama-Raj-1974-AP)
 
