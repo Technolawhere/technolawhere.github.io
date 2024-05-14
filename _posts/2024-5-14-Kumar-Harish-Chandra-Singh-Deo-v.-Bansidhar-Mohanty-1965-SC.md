@@ -25,7 +25,7 @@ JUDGE: J.R. MUDHOLKAR
 
 * According to the Court, the object of attestation was to protect the executant from executing the deed under force, fraud or undue influence. As the law requires examination of at least one attesting witness even after hearing the testimony of the parties to the deed, by inference, therefore, parties to a deed cannot act as attesting witnesses.
 
-* In *Peary Mohan Maiti v. Sreenath Chandra** 14 Cal WN 1046; **Sarur Jigar Begum v. Barado Kanta** ILR 37 Cal 525 and **Gomathi Ammal v. V.S.M. Krishna Iyer** AIR 1954 Mad 126, similar conclusion that a party to a document which is required by law to be attested is not competent to attest the document was reached.
+* In **Peary Mohan Maiti v. Sreenath Chandra** 14 Cal WN 1046; **Sarur Jigar Begum v. Barado Kanta** ILR 37 Cal 525 and **Gomathi Ammal v. V.S.M. Krishna Iyer** AIR 1954 Mad 126, similar conclusion that a party to a document which is required by law to be attested is not competent to attest the document was reached.
 
 * But any person, who is not a party to the deed, can be an attesting witness, even if she is someone who is interested in the entire transaction.
 
