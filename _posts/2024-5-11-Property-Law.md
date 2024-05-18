@@ -226,3 +226,144 @@ However, under the Indian law, there is no such requirement. The witnesses can a
 * [M.L. Abdul Jabbar Sahib v. H. Venkata Sastri, AIR 1969 SC 1147 : (1969) 1 SCC 573](https://pranavsaksena.com/posts/M.L.-Abdul-Jabbar-Sahib-v.-H.-Venkata-Sastri-1969-SC/)
 
 * [Padarath Halwai v. Ram Narain, AIR 1915 PC 21](https://pranavsaksena.com/posts/Padarath-Halwai-v.-Ram-Narain-1915-Privy-Council/)
+
+## Notice
+
+S.3 TPA, 1882 talks about notice in the following way:
+
+> “a **person is said to have notice**” of a fact when he actually knows that fact, or when, but for wilful 
+abstention from an enquiry or search which he ought to have made, or gross negligence, he would have 
+known it.
+>
+> Explanation I - Where any transaction relating to immovable property is required by law to be 
+and has been effected by a registered instrument, any person acquiring such property or any part of, 
+or share or interest in, such property shall be deemed to have notice of such instrument as from the 
+date of registration...
+>
+> Explanation II - Any person acquiring any immoveable property or any share or interest in 
+any such property shall be deemed to have notice of the title, if any, of any person who is for the 
+time being in actual possession thereof. 
+> 
+> Explanation III - A person shall be deemed to have had notice of any fact if his agent acquires 
+notice thereof whilst acting on his behalf in the course of business to which that fact is material:
+>
+> Provided that, if the agent fraudulently conceals the fact, the principal shall not be charged 
+with notice thereof as against any person who was a party to or otherwise cognizant of the fraud.
+>
+
+* From the above definition, notices can be divided into 3 types:
+  
+   1. Actual or express notice
+      
+   3. Implied or constructive notice
+      
+   5. Imputed notice (explanation III, notice to the agent, imputed to her principal)
+
+### Actual Notice (aka Express Notice)
+
+Actual notice = Definite information + given by person interested + given in the same transaction 
+
+### Constructive Notice (aka Implied Notice)
+
+* A person is said to have constructive notice in those situations when he would have had an actual notice had he made those enquiries which a reasonable person would have made in the same situation.
+
+* Knowledge of such a notice is imputed by the court in the following cases:
+
+   1. **Wilful absentation from an enquiry or search which ought to have been made**
+
+      * Conscious and deliberate
+     
+      * Must be with some purpose or design
+      
+      * There should be a desire to avoid asking questions
+     
+      * E.g.: A person refusing a registered letter containing some information regarding a property he is planning to purchase will be deemed to have the information so contained (Joginder v. Dwarkar 15 Cal 681)
+     
+      * Case Laws:
+
+         * Ahmedabad Municipal Corporation v. Haji Abdul Gafur Haji Hussenbhai, AIR 1971 SC 1201 ; (1971) 1 SCC 757 
+
+   3. **Gross Negligence**
+
+      * Does not mean carelessness but aggravated carelessness which indicates mental indifference to obvious risks
+     
+      * E.g. in **Imperial Bank of India v U. Raj Gyaw (1923) 50 IA 283**, it was held that a purchaser, who after being informed that the title-deeds were in possession of a bank for safekeeping, failed to make inquiries from the bank, was grossly negligent and notice of bank's rights over the deeds was imputed to him. 
+ 
+   5. **Registration**
+
+      * Given under S.3, Explanation I
+        >
+        > Explanation I - Where any transaction relating to immovable property is required by law to be 
+and has been effected by a registered instrument, any person acquiring such property or any part of, 
+or share or interest in, such property shall be deemed to have notice of such instrument as from the 
+date of registration...
+        >
+     
+      * Following 3 conditions must be satisfied:
+
+        1. It must be compulsory to register the instrument. Thus, registration is no notice in cases where getting the deed registered is optional.
+       
+        2. Registration must be done strictly according to the manner prescribed by Indian Registration Act.
+       
+        3. Information entered into the registers and indices must be correct.   
+ 
+   7. **Actual Possession**
+      
+      * Given under s.3, Explanation II:
+      >
+      > Explanation II - Any person acquiring any immoveable property or any share or interest in 
+any such property shall be deemed to have notice of the title, if any, of any person who is for the 
+time being in actual possession thereof. 
+      >  
+     
+      *  De facto possession amounts to notice of title in another.
+     
+      *  Makes the factum of possession act as a notice of rights of the possessor.
+     
+      *  Amount of property possessed out of the whole is also a relevant factor.
+     
+      *  Case Laws:
+
+         * Md. Mustafa v. Haji Md. Isa, AIR 1987 Pat 5
+       
+         * H.N.Narayanaswamy Naidu v. Deveeramma, AIR 1981 Kant 93
+       
+         * Ram Niwas v. Bano, AIR 2000 SC 2921 : (2000) 6 SCC 685
+ 
+   9. **Notice to agent**
+      
+      * Given under s.3, Explanation III:
+      > Explanation III - A person shall be deemed to have had notice of any fact if his agent acquires 
+notice thereof whilst acting on his behalf in the course of business to which that fact is material:
+      >
+      > Provided that, if the agent fraudulently conceals the fact, the principal shall not be charged 
+with notice thereof as against any person who was a party to or otherwise cognizant of the fraud.
+      > 
+     
+      * Based on the maxim **Qui facit per alium facit per se**, i.e. he who does by another, does by himself.
+     
+      * Principal deemed to have notice of any fact which his agent has come to know of when:
+         
+         1. Agent is acting on his behalf
+         
+         2. During the course of business
+       
+         3. To which business that fact is relevant
+     
+      * Note: If agent acts fraudulently, principal cannot be charged with notice
+     
+      * Notice is imputed to the principal irrespective of the fact whether the agent did actually communicate the information to her principal or not.
+     
+      * Underlying principle is that no person must be allowed to escape the doctrine of notice by employing an agent.
+     
+      * E.g. In **Mohori Bibee v. D Ghosh 1903 30 Cal 539**, the principal was deemed to have notice of petitioner's age even though he had not been personally involved in the transactions and everything was being done by his agent alone.  
+
+### Cases related to Notice
+
+* Ahmedabad Municipal Corporation v. Haji Abdul Gafur Haji Hussenbhai, AIR 1971 SC 1201 ; (1971) 1 SCC 757
+
+* Md. Mustafa v. Haji Md. Isa, AIR 1987 Pat 5
+
+* H.N.Narayanaswamy Naidu v. Deveeramma, AIR 1981 Kant 93
+
+* Ram Niwas v. Bano, AIR 2000 SC 2921 : (2000) 6 SCC 685
