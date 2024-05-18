@@ -2,7 +2,7 @@
 title: "Notes on Property Law and Transfer of Property Act 1882"
 date: 2024-5-12 00:00:00 +0530
 categories: [Property Law]
-tags: [Notes]
+tags: [Notes, Property Law]
 ---
 
 # Notes on Property Law and Transfer of Property Act 1882
@@ -223,6 +223,6 @@ However, under the Indian law, there is no such requirement. The witnesses can a
 
 * [Kumar Harish Chandra Singh Deo v. Bansidhar Mohanty, AIR 1965 SC 1738 : (1966) 1 SCR 153](https://pranavsaksena.com/posts/Kumar-Harish-Chandra-Singh-Deo-v.-Bansidhar-Mohanty-1965-SC/)
 
-* M.L. Abdul Jabbar Sahib v. H. Venkata Sastri, AIR 1969 SC 1147 : (1969) 1 SCC 573
+* [M.L. Abdul Jabbar Sahib v. H. Venkata Sastri, AIR 1969 SC 1147 : (1969) 1 SCC 573](https://pranavsaksena.com/posts/M.L.-Abdul-Jabbar-Sahib-v.-H.-Venkata-Sastri-1969-SC/)
 
 * [Padarath Halwai v. Ram Narain, AIR 1915 PC 21](https://pranavsaksena.com/posts/Padarath-Halwai-v.-Ram-Narain-1915-Privy-Council/)
