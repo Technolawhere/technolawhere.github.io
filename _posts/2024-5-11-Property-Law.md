@@ -209,7 +209,7 @@ case of a simple mortgage) by delivery of the property.
  
    7. Attestation does not estop the attestant. Her signing is no proof that she is aware of the contents of the document.
  
-   8. Mere presence of the signature of the attestant is insufficient. There should be *Animo Attestandi* (i.e. intention to attest) as well.
+   8. Mere presence of the signature of the attestant is insufficient. There should be *Animo Attestandi* (i.e. intention to attest) as well. See M.L. Abdul Jabbar Sahib v. H. Venkata Sastri, AIR 1969 SC 1147 : (1969) 1 SCC 573.
  
    9. A person who is a party to transfer cannot be an attesting witness but party interested in transaction can be a witness.
 
@@ -223,6 +223,6 @@ However, under the Indian law, there is no such requirement. The witnesses can a
 
 * [Kumar Harish Chandra Singh Deo v. Bansidhar Mohanty, AIR 1965 SC 1738 : (1966) 1 SCR 153](https://pranavsaksena.com/posts/Kumar-Harish-Chandra-Singh-Deo-v.-Bansidhar-Mohanty-1965-SC/)
 
-* M.L .Abdul Jabbar Sahib v. H. Venkata Sastri, AIR 1969 SC 1147 : (1969) 1 SCC 573
+* M.L. Abdul Jabbar Sahib v. H. Venkata Sastri, AIR 1969 SC 1147 : (1969) 1 SCC 573
 
 * [Padarath Halwai v. Ram Narain, AIR 1915 PC 21](https://pranavsaksena.com/posts/Padarath-Halwai-v.-Ram-Narain-1915-Privy-Council/)
