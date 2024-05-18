@@ -1,6 +1,6 @@
 ---
 title: "Ahmedabad Municipal Corporation v. Haji Abdul Gafur Haji Hussenbhai, AIR 1971 SC 1201 ; (1971) 1 SCC 757"
-date: 2024-5-14 00:00:00 +0530
+date: 2024-5-18 00:00:00 +0530
 categories: [Case Summaries]
 tags: [Notice, Property Law]
 ---
