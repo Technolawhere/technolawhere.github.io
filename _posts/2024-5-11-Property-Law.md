@@ -171,6 +171,20 @@ each of whom has signed the instrument in the presence of the executant; but it 
 necessary that more than one of such witnesses shall have been present at the same time, and 
 no particular form of attestation shall be necessary
 
+Other Relevant Provisions:
+
+* S.59 of TPA, 1882:
+> Mortgage when to be by assurance -
+>
+> Where the principal money secured is one hundred 
+rupees or upwards, a mortgage 5[other than a mortgage by deposit of title-deeds] can be effected only 
+by a registered instrument signed by the mortgagor and attested by at least two witnesses.
+>
+> 
+> Where the principal money secured is less than one hundred rupees, a mortgage may be 
+effected either by (a registered instrument) signed and attested as aforesaid, or (except in the 
+case of a simple mortgage) by delivery of the property.
+
 * Components of Valid Attestation:
   
    1. Two or more attesting witnesses
@@ -198,6 +212,12 @@ no particular form of attestation shall be necessary
    8. Mere presence of the signature of the attestant is insufficient. There should be *Animo Attestandi* (i.e. intention to attest) as well.
  
    9. A person who is a party to transfer cannot be an attesting witness but party interested in transaction can be a witness.
+
+### Difference between English and Indian Law:
+
+Under English law, attestation based on personal acknowledgement is not valid. The attesting witnesses should be present at the time of execution of the deed. Attestation based on personal acknowledgement is not valid. 
+
+However, under the Indian law, there is no such requirement. The witnesses can attest the document after it has been executed and they have received personal acknowledgement from the parties for whom they are attesting. 
  
 ### Cases related to Attestation
 
