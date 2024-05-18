@@ -7,7 +7,7 @@ tags: [Attestation, Property Law]
 
 # Padarath Halwai v. Ram Narain, AIR 1915 PC 21
 
-JUDGE: 
+JUDGE: SIR JOHN EDGE
 
 ## Facts
 
