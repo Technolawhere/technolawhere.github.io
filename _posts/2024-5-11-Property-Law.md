@@ -231,20 +231,20 @@ However, under the Indian law, there is no such requirement. The witnesses can a
 
 S.3 TPA, 1882 talks about notice in the following way:
 
-> “a **person is said to have notice**” of a fact when he actually knows that fact, or when, but for wilful 
-abstention from an enquiry or search which he ought to have made, or gross negligence, he would have 
+> “a **person is said to have notice**” of a fact when he **actually knows** that fact, or when, but for **wilful 
+abstention** from an enquiry or search which he ought to have made, or **gross negligence**, he would have 
 known it.
 >
 > Explanation I - Where any transaction relating to immovable property is required by law to be 
-and has been effected by a registered instrument, any person acquiring such property or any part of, 
+and has been effected by a **registered instrument**, any person acquiring such property or any part of, 
 or share or interest in, such property shall be deemed to have notice of such instrument as from the 
 date of registration...
 >
 > Explanation II - Any person acquiring any immoveable property or any share or interest in 
 any such property shall be deemed to have notice of the title, if any, of any person who is for the 
-time being in actual possession thereof. 
+time being in **actual possession** thereof. 
 > 
-> Explanation III - A person shall be deemed to have had notice of any fact if his agent acquires 
+> Explanation III - A person shall be deemed to have had notice of any fact if his **agent** acquires 
 notice thereof whilst acting on his behalf in the course of business to which that fact is material:
 >
 > Provided that, if the agent fraudulently conceals the fact, the principal shall not be charged 
@@ -330,33 +330,35 @@ time being in actual possession thereof.
        
          * Ram Niwas v. Bano, AIR 2000 SC 2921 : (2000) 6 SCC 685
  
-   9. **Notice to agent**
+### Imputed notice
+
+**Notice to agent**
       
-      * Given under s.3, Explanation III:
-      > Explanation III - A person shall be deemed to have had notice of any fact if his agent acquires 
+* Given under s.3, Explanation III:
+   > Explanation III - A person shall be deemed to have had notice of any fact if his agent acquires 
 notice thereof whilst acting on his behalf in the course of business to which that fact is material:
-      >
-      > Provided that, if the agent fraudulently conceals the fact, the principal shall not be charged 
+   >
+   > Provided that, if the agent fraudulently conceals the fact, the principal shall not be charged 
 with notice thereof as against any person who was a party to or otherwise cognizant of the fraud.
-      > 
+   > 
      
-      * Based on the maxim **Qui facit per alium facit per se**, i.e. he who does by another, does by himself.
+* Based on the maxim **Qui facit per alium facit per se**, i.e. he who does by another, does by himself.
      
-      * Principal deemed to have notice of any fact which his agent has come to know of when:
+* Principal deemed to have notice of any fact which his agent has come to know of when:
          
-         1. Agent is acting on his behalf
+   1. Agent is acting on his behalf
          
-         2. During the course of business
+   2. During the course of business
        
-         3. To which business that fact is relevant
+   3. To which business that fact is relevant
      
-      * Note: If agent acts fraudulently, principal cannot be charged with notice
+* Note: If agent acts fraudulently, principal cannot be charged with notice
      
-      * Notice is imputed to the principal irrespective of the fact whether the agent did actually communicate the information to her principal or not.
+* Notice is imputed to the principal irrespective of the fact whether the agent did actually communicate the information to her principal or not.
      
-      * Underlying principle is that no person must be allowed to escape the doctrine of notice by employing an agent.
+* Underlying principle is that no person must be allowed to escape the doctrine of notice by employing an agent.
      
-      * E.g. In **Mohori Bibee v. D Ghosh 1903 30 Cal 539**, the principal was deemed to have notice of petitioner's age even though he had not been personally involved in the transactions and everything was being done by his agent alone.  
+* E.g. In **Mohori Bibee v. D Ghosh 1903 30 Cal 539**, the principal was deemed to have notice of petitioner's age even though he had not been personally involved in the transactions and everything was being done by his agent alone.  
 
 ### Cases related to Notice
 
