@@ -281,7 +281,7 @@ Actual notice = Definite information + given by person interested + given in the
      
       * Case Laws:
 
-         * Ahmedabad Municipal Corporation v. Haji Abdul Gafur Haji Hussenbhai, AIR 1971 SC 1201 ; (1971) 1 SCC 757 
+         * [Ahmedabad Municipal Corporation v. Haji Abdul Gafur Haji Hussenbhai, AIR 1971 SC 1201 ; (1971) 1 SCC 757](https://pranavsaksena.com/posts/Ahmedabad-Municipal-Corporation-v.-Haji-Abdul-Gafur-Haji-Hussenbhai-1971-SC/) 
 
    3. **Gross Negligence**
 
@@ -362,7 +362,7 @@ with notice thereof as against any person who was a party to or otherwise cogniz
 
 ### Cases related to Notice
 
-* Ahmedabad Municipal Corporation v. Haji Abdul Gafur Haji Hussenbhai, AIR 1971 SC 1201 ; (1971) 1 SCC 757
+* [Ahmedabad Municipal Corporation v. Haji Abdul Gafur Haji Hussenbhai, AIR 1971 SC 1201 ; (1971) 1 SCC 757](https://pranavsaksena.com/posts/Ahmedabad-Municipal-Corporation-v.-Haji-Abdul-Gafur-Haji-Hussenbhai-1971-SC/)
 
 * Md. Mustafa v. Haji Md. Isa, AIR 1987 Pat 5
 
