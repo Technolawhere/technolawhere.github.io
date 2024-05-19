@@ -324,7 +324,7 @@ time being in actual possession thereof.
      
       *  Case Laws:
 
-         * Md. Mustafa v. Haji Md. Isa, AIR 1987 Pat 5
+         * [Md. Mustafa v. Haji Md. Isa, AIR 1987 Pat ](https://pranavsaksena.com/posts/Md.-Mustafa-v.-Haji-Md.-1987-Patna-HC/)
        
          * H.N.Narayanaswamy Naidu v. Deveeramma, AIR 1981 Kant 93
        
@@ -364,7 +364,7 @@ with notice thereof as against any person who was a party to or otherwise cogniz
 
 * [Ahmedabad Municipal Corporation v. Haji Abdul Gafur Haji Hussenbhai, AIR 1971 SC 1201 ; (1971) 1 SCC 757](https://pranavsaksena.com/posts/Ahmedabad-Municipal-Corporation-v.-Haji-Abdul-Gafur-Haji-Hussenbhai-1971-SC/)
 
-* Md. Mustafa v. Haji Md. Isa, AIR 1987 Pat 5
+* [Md. Mustafa v. Haji Md. Isa, AIR 1987 Pat 5](https://pranavsaksena.com/posts/Md.-Mustafa-v.-Haji-Md.-1987-Patna-HC/)
 
 * H.N.Narayanaswamy Naidu v. Deveeramma, AIR 1981 Kant 93
 
