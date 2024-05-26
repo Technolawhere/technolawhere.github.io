@@ -13,9 +13,9 @@ Judges: P. Sathasivam, CJI
 
 * A writ petition was filed u/a 32 by the father of a minor wherein it was alledged that a written report was submitted by the petitioner before the officer in-charge of the police station concerned who did not take any action on the same. Thereafter, when the Superintendent of Police was moved, an FIR was registered. According to the petitioner, even thereafter, steps were not taken either for apprehending the accused or for the recovery of the minor girl child.
 
-* A two judge bench of the Court, in 2008, had issued a notice of show cause to the States.
+* [A two judge bench of the Court, in 2008, had issued a notice of show cause to the States.](https://pranavsaksena.com/posts/Lalita-Kumari-v.-Govt.-of-UP-2008-SC-1/)
 
-* Pursuant to that, the same bench had issued an order directing immediate registration of FIR and if not done then what remedies were to be adopted by way of approaching the judicial magistrate and what action could be taken against delinquent police officers.
+* [Pursuant to that, the same bench had issued an order regarding immediate registration of FIR and available remedies in case of non registration by the police office and actions available against such delinquent officers.](https://pranavsaksena.com/posts/Lalita-Kumari-v.-Govt.-of-U.P.-2008-SC-2/)
 
 * Further, in the subsequent cases, some issues were raised (mentioned below) that were referred to the constitutional bench.
 
