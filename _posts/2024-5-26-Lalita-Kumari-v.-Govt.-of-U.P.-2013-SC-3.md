@@ -1,6 +1,6 @@
 ---
 title: "Lalita Kumari v. Govt. of U.P. 2013 (13) Scale 559"
-date: 2024-5-26 00:00:00 +0530
+date: 2024-5-26 10:00:00 +0530
 categories: [Case Summaries]
 tags: [Initiation of Criminal Cases, BNSS, CrPC]
 ---
