@@ -1,6 +1,6 @@
 ---
 title: "Lalita Kumari v. Govt. of U.P. 2008 (11) Scale 157"
-date: 2024-5-26 00:00:00 +0530
+date: 2024-5-26 05:00:00 +0530
 categories: [Case Summaries]
 tags: [Initiation of Criminal Cases, BNSS, CrPC]
 ---
