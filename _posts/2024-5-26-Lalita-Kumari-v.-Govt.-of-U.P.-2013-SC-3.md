@@ -28,6 +28,8 @@ Judges: P. Sathasivam, CJI
    *  (WRT the victim) Whether the immediate non-registration of FIR leads to scope for manipulation by the police which affects the right of the victim/complainant to have a complaint immediately investigated upon allegations being made
  
    *  (WRT the Accused) Whether in cases where the complaint/information does not clearly disclose the commission of a cognizable offence but the FIR is compulsorily registered then does it infringe the rights of an accused.
+ 
+     i.e. to say whether mandatory registration of FIR under s154 CrPC contravenes provisions of A.21 of the Constitution. 
 
 
 ## Sections Involved
@@ -221,4 +223,79 @@ device:
 > Provided that where forensic facility is not available in respect of any such offence,
 the State Government shall, until the facility in respect of that matter is developed or made
 in the State, notify the utilisation of such facility of any other State.
+
+
+## Observations and Decision of the Court
+
+* The logic behind COMPULSORY REGISTRATION OF FIR is two-fold:
+  
+   * Ensuring transparency in the criminal justice delivery system
+     
+   * Ensure 'Judicial oversight'
+
+  S. 157(1) Uses word 'forthwith'. Any information received under Sec. 154(1) or otherwise has to be duly informed in the form of a report to the Magistrate immediately. Thus, commission of a cognizable offence is brought to the notice of not only the investigating agency but also to the immediate notice of the judiciary.
+
+* Regarding TYPES OF FIR: two types:
+
+   * duly signed FIR under Sec. 154(1), given by the informant to the officer in-charge of the police station.
+ 
+   * registered by the police itself on any information received or other than by way of an informant Sec. 157(1)
+
+   Both these have to forwarded to the magistrate forthwith.
+
+* Reg. NON-REGISTRATION OF FIR: The court observed that the plight, due to nonregistration of FIR, faced was several people was highlighted even by Committee on Reforms of Criminal Justice System headed by Justice V.S. Malimath. The committee had recommended that action should be taken against police officers who refuse to register such information:
+   
+   > "According to Sec. 154, police is mandated to register every information relating to the commission of a cognizable offence. Non-registration of cases is a serious complaint against the police.
+   >
+   > The National Police Commission in its 4th report too highlighted the problem of police evading registration of cases.
+   >
+   > Study: "Image of Police in India" observed 50% of the respondents mention non-registration of complaints as a common practice in police stations.
+   >
+
+* Reg. ORAL COMPLAINTS: Court observed that police officers have been reported to be advising informants, who come to give oral complaints, to bring written complaints. It said that this was wrong, leads to loss of time and complainant might get an opportunity to consult others and exaggerate. This will have adverse impact at the trial.
+
+  Information should be reduced in writing by the SHO, if given orally, without any loss of time so that the first version of the alleged crime comes on record.
+
+* Reg. REGISTRATION OF EVERY INFORMATION: Malimath Committee also noticed that there is a practice among the police officers to turn away complainants of cognizable offences by telling them it is not cognizable. But on the other hand, it also noted that political pressures, among other things, can sometimes make the police twist the facts to make the information one pertaining to a cognizable offence. To stem such practices, the committee recomended making it obligatory on the police officer to register every complaint received by him.
+
+* Reg MISUSE OF MANDATORY FIR:
+  
+   * WILL MANDATORY REGISTRATION OF FIR LEAD TO ARBITRARY ARREST? no, registration of FIR is mandatory, arrest of the accused immediately on registration of FIR is not at all mandatory. Two are entirely different concepts. Several safeguards are avialable against arrest: eg. Anticipatory Bail.
+ 
+   * POWER OF THE POLICE TO CLOSE INVESTIGATION AND MAGISTRATE TO REOPEN: power to the police to close an investigation, Sec. 157. 41st Report of the Law Commission of India on the Code of Criminal Procedure, 1898 as follows:
+ 
+   > ...If the offence does not appear to be serious and if the station-house officer thinks there is no sufficient ground for starting an investigation, he need not investigate but, here again, he has to send a report to the Magistrate who can direct the police to investigate, or... hold an inquiry himself
+   >
+   > ...Magistrate is kept in the picture at all stages of the police investigation, but he is not authorized to interfere with the actual investigation or to direct the police how that investigation is to be conducted.
+   
+  As a result, the apprehension of misuse of the provision of mandatory registration of FIR is unfounded and speculative in nature.
+    
+* The Court, answering the questions on right of accused vs right of victim said that delicate balance has to be maintained between the interest of the society and protecting the liberty of an individual - Sufficient safeguards have been provided in the code to protect against false FIR registration - S.154 drafted to protect the interest of the victim
+
+  Thus mandatory registration of FIR under s154 will not be in contravention of A.21 of The Constitution.
+
+
+* Directions:
+
+  1. If information discloses cognizable offence - mandatory registration of FIR, no preliminary inquiry allowed. Action to be taken agianst police officers who do not register.
+ 
+  2. If information does not disclose a cognizable offence but indicates the necessity for an inquiry - preliminary inquiry allowed only to ascertain whether cognizable offence is disclosed -  not for checking veracity of info, its credibility, etc - these to be done during investigation.  
+ 
+  3. Type of preliminary inquiry (PI) and where it is to be conducted - Ques of facts and circums. Category of cases where PI may be made (Not an exhaustive list): 
+     
+     * Matrimonial disputes/family disputes
+    
+     * Commercial offences
+    
+     * Medical negligence cases
+    
+     * Corruption cases
+    
+     * Where there is abnormal delay/laches in initiating criminal prosecution
+    
+  4. PI to be time bound, not exceeding 7 days in any case, reason for delay to be entered into GD
+ 
+  5. All information relating to cognizable offences, whether resulting in registration of FIR or leading to an inquiry, must be mandatorily and meticulously reflected in GD. Decision to conduct a preliminary inquiry must also be reflected.
+
+
 
