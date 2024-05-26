@@ -13,9 +13,22 @@ Judges: P. Sathasivam, CJI
 
 * A writ petition was filed u/a 32 by the father of a minor wherein it was alledged that a written report was submitted by the petitioner before the officer in-charge of the police station concerned who did not take any action on the same. Thereafter, when the Superintendent of Police was moved, an FIR was registered. According to the petitioner, even thereafter, steps were not taken either for apprehending the accused or for the recovery of the minor girl child.
 
+* A two judge bench of the Court, in 2008, had issued a notice of show cause to the States.
+
+* Pursuant to that, the same bench had issued an order directing immediate registration of FIR and if not done then what remedies were to be adopted by way of approaching the judicial magistrate and what action could be taken against delinquent police officers.
+
+* Further, in the subsequent cases, some issues were raised (mentioned below) that were referred to the constitutional bench.
+
 ## Issues
 
 * whether "a police officer is bound to register a First Information Report (FIR) upon receiving any information relating to commission of a cognizable offence under Section 154 of the Code of Criminal Procedure, 1973 or the police officer has the power to conduct a "preliminary inquiry" in order to test the veracity of such information before registering the same?"
+
+* The above issue involved answering two questions:
+
+   *  (WRT the victim) Whether the immediate non-registration of FIR leads to scope for manipulation by the police which affects the right of the victim/complainant to have a complaint immediately investigated upon allegations being made
+ 
+   *  (WRT the Accused) Whether in cases where the complaint/information does not clearly disclose the commission of a cognizable offence but the FIR is compulsorily registered then does it infringe the rights of an accused.
+
 
 ## Sections Involved
 
@@ -134,7 +147,7 @@ which such aggrieved person may make an application to the Magistrate.
 
 * CrPC 157(1)
 
-> 157. Procedure for investigation.—
+> 157. Procedure for investigation.— (CHAPTER XII)
 > 
 > (1) If, from information received or otherwise, an officer in charge of a 
 police station has reason to suspect the commission of an offence which he is empowered under section 156 to 
@@ -208,3 +221,4 @@ device:
 > Provided that where forensic facility is not available in respect of any such offence,
 the State Government shall, until the facility in respect of that matter is developed or made
 in the State, notify the utilisation of such facility of any other State.
+
