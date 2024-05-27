@@ -293,7 +293,7 @@ in the State, notify the utilisation of such facility of any other State.
     
      * Where there is abnormal delay/laches in initiating criminal prosecution
     
-  4. PI to be time bound, not exceeding 7 days in any case, reason for delay to be entered into GD
+  4. PI to be time bound, not exceeding 7 days in any case (later order changed this to 15 days and in exceptional cases, maximum upto 6 weeks), reason for delay to be entered into GD
  
   5. All information relating to cognizable offences, whether resulting in registration of FIR or leading to an inquiry, must be mandatorily and meticulously reflected in GD. Decision to conduct a preliminary inquiry must also be reflected.
 
