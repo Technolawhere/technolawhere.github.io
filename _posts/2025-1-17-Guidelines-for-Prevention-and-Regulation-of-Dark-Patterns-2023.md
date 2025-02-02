@@ -48,14 +48,14 @@ There are 13 kinds of dark patterns that are specified under annexure 1 to the g
    
    b. Stating that quantities of a particular product or service are more limited than they actually are.
 
-The following illustrations are provided in the annexure wrt this:
+   The following illustrations are provided in the annexure wrt this:
 
-   a. Presenting false data on high demand without appropriate context. For instance, “Only 2 rooms left! 30 others are looking at this right now”.
+      a. Presenting false data on high demand without appropriate context. For instance, “Only 2 rooms left! 30 others are looking at this right now”.
 
-   b. Falsely creating time-bound pressure to make a purchase, such as describing a sale as an ‘exclusive’ sale for a limited time only for a select group of users.  
+      b. Falsely creating time-bound pressure to make a purchase, such as describing a sale as an ‘exclusive’ sale for a limited time only for a select group of users.  
 
 
-2. **Basket sneaking**
+2. **Basket sneaking:**
 
 
 
