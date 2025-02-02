@@ -11,22 +11,17 @@ These guidelines have been issued by the Central Consumer Protection Authority, 
 
 * s18. Powers and functions of Central Authority.
 > (1) The Central Authority shall-
->
 > 
 > (a) protect, promote and enforce the rights of consumers as a class and prevent violation of consumers rights under this Act;
->
 > 
 > (b) prevent unfair trade practices and ensure that no person engages himself in unfair trade practices;vent violation of consumers rights under this Act;
->
 > 
 > (c) ensure that no false or misleading advertisement is made of any goods or services which contravenes the provisions of this Act or the rules or regulations made thereunder;
->
 > 
 > (d) ensure that no person takes part in the publication of any advertisement which is false or misleading.
 >
 >
 > (2) Without prejudice to the generality of the provisions contained in sub-section (1), the Central Authority may, for any of the purposes aforesaid,-
->
 > 
 > ... [Click here to view the full provision](https://www.indiacode.nic.in/show-data?abv=CEN&statehandle=123456789/1362&actid=AC_CEN_21_44_00007_201935_1596441164903&sectionId=50043&sectionno=18&orderno=18&orgactid=AC_CEN_21_44_00007_201935_1596441164903 "Click to view sec. 18") ...
 > 
