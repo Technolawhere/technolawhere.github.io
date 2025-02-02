@@ -8,7 +8,7 @@ order: 5
 # Summary
 
 A highly motivated fresher with a strong background in electrical
-and electronics engineering. Recently enrolled in a law degree
+and electronics engineering. Currently enrolled in a law degree
 program at Faculty of Law, Delhi University. Seeking to leverage
 my engineering and to-be-acquired legal expertise to pursue a
 career in patent law or intellectual property management.
@@ -30,13 +30,13 @@ career in patent law or intellectual property management.
 ![SAMA Logo](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/About/SAMA%20logo.jpg "SAMA Logo")
 
 
-An extremely low cost, highly accurate weather station based on Internet of Things, built with inputs from the India Meteorological Department, exhibited at Rashtrapati Bhawan during the Festival of Innovation. Smaller replica installed at my residence. Check current atmospheric readings [here](https://technolawhere.github.io/SAMA-समा/)
+An extremely low cost, highly accurate weather station based on Internet of Things, built with inputs from the India Meteorological Department, **exhibited at Rashtrapati Bhawan during the Festival of Innovation**. Smaller replica installed at my residence. Check current atmospheric readings [here](https://technolawhere.github.io/SAMA-समा/)
 
 ### **SVR (स्वर)** : Sign and Voice Recognizer 
 
 ![SVR Logo](https://raw.githubusercontent.com/Technolawhere/technolawhere.github.io/main/images/About/SVR%20Logo.png "SVR Logo")
 
-A glove to aid people with hearing impairment and speech difficulties in communicating by converting sign language to voice and voice to text using machine learning and artificial intelligence. Checkout [Project SVR on YouTube](https://www.youtube.com/@projectsvrnitdelhi6028/videos)
+A glove to aid people with hearing impairment and speech difficulties in communicating by converting sign language to voice and voice to text using machine learning and artificial intelligence. **Currently, I am working with NIT Delhi in exploring patent options for this project**. Checkout [Project SVR on YouTube](https://www.youtube.com/@projectsvrnitdelhi6028/videos)
 
 
 ## Extracurricular interests
