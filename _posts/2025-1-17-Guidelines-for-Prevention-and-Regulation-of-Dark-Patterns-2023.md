@@ -43,14 +43,16 @@ Dark patterns work by influencing the way choices are presented to users, often 
 There are 13 kinds of dark patterns that are specified under annexure 1 to the guidelines:
 
 1. **False Urgency:** means falsely stating or implying the sense of urgency or scarcity so as to mislead a user into making an immediate purchase or taking an immediate action, which may lead to a purchase. This would include:
+   
    a. Showing false popularity of a product or service to manipulate user decision
+   
    b. Stating that quantities of a particular product or service are more limited than they actually are.
 
 The following illustrations are provided in the annexure wrt this:
-   a. Presenting false data on high demand without appropriate context. For instance, “Only 2 rooms left! 30 
-others are looking at this right now”
-   b. Falsely creating time-bound pressure to make a purchase, such as describing a sale as an ‘exclusive’ 
-sale for a limited time only for a select group of users.  
+
+   a. Presenting false data on high demand without appropriate context. For instance, “Only 2 rooms left! 30 others are looking at this right now”.
+
+   b. Falsely creating time-bound pressure to make a purchase, such as describing a sale as an ‘exclusive’ sale for a limited time only for a select group of users.  
 
 
 2. **Basket sneaking**
