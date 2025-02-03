@@ -155,7 +155,7 @@ pop-up asking a user if they wish to make a purchase.
 
     Explanation-
 
-   (a) for the purposes of this paragraph, the expression “disguised advertisement” shall also include misleading advertisement as defined in clause 2(28) of the Act and the [“Guidelines for Prevention of Misleading Advertisements and Endorsements for Misleading Advertisements, 2022”](https://consumeraffairs.nic.in/sites/default/files/CCPA_Notification.pdf) shall also be applicable to it.
+    (a) for the purposes of this paragraph, the expression “disguised advertisement” shall also include misleading advertisement as defined in clause 2(28) of the Act and the [“Guidelines for Prevention of Misleading Advertisements and Endorsements for Misleading Advertisements, 2022”](https://consumeraffairs.nic.in/sites/default/files/CCPA_Notification.pdf) shall also be applicable to it.
 
    > Note: Clause 2(28) states the following:
    >
@@ -170,10 +170,11 @@ pop-up asking a user if they wish to make a purchase.
    >(iv) deliberately conceals important information;
    >
 
-  (b) in relation to content posted by a seller or an advertiser on a platform, the responsibility of making the 
+     (b) in relation to content posted by a seller or an advertiser on a platform, the responsibility of making the 
 disclosure that such content is an advertisement shall be on such seller or advertiser.
 
-  10. **Nagging** means a dark pattern practice due to which a user is disrupted and annoyed by repeated and persistent interactions, in the form of requests, information, options, or interruptions, to effectuate a transaction and make some commercial gains, unless specifically permitted by the user.
+
+10. **Nagging** means a dark pattern practice due to which a user is disrupted and annoyed by repeated and persistent interactions, in the form of requests, information, options, or interruptions, to effectuate a transaction and make some commercial gains, unless specifically permitted by the user.
 
       Illustrations:
 
@@ -183,13 +184,13 @@ disclosure that such content is an advertisement shall be on such seller or adve
 
       (c) constant request to turn on or accept notifications or cookies with no option to say “NO”.
 
-  11. **Trick Question** means the deliberate use of confusing or vague language like confusing wording, double negatives, or other similar tricks, in order to misguide or misdirect a user from taking desired action or leading consumer to take a specific response or action
+11. **Trick Question** means the deliberate use of confusing or vague language like confusing wording, double negatives, or other similar tricks, in order to misguide or misdirect a user from taking desired action or leading consumer to take a specific response or action
      
       Illustrations:
 
       (a) while giving a choice to opt, “Do you wish to opt out of receiving updates on our collection and discounts forever?” using phrases like, “Yes. I would like to receive updates” and “Not Now”, instead of the option, “Yes”.
 
-  12. “Saas billing” refers to the process of generating and collecting payments from consumers on a recurring basis in a software as a service (SaaS) business model by exploiting positive acquisition loops in recurring subscriptions to get money from users as surreptitiously as possible.
+12. **Saas billing** refers to the process of generating and collecting payments from consumers on a recurring basis in a software as a service (SaaS) business model by exploiting positive acquisition loops in recurring subscriptions to get money from users as surreptitiously as possible.
 
       Illustrations:
 
@@ -201,7 +202,7 @@ disclosure that such content is an advertisement shall be on such seller or adve
 
       (d) using shady credit card authorization practices to deceive consumers. 
 
-  13. **Rogue Malwares** means using a ransomware or scareware to mislead or trick user into believing there is a virus on their computer and aims to convince them to pay for a fake malware removal tool that actually installs malware on their computer.
+13. **Rogue Malwares** means using a ransomware or scareware to mislead or trick user into believing there is a virus on their computer and aims to convince them to pay for a fake malware removal tool that actually installs malware on their computer.
      
       Illustrations:
 
