@@ -121,4 +121,92 @@ cumbersome.
    b. A ‘X’ icon on the top-right corner of a pop-up screen leading to opening-up of another advertisement rather than closing it;
 
    c. designing a virtually less prominent designing a light colored option for selecting “No” in response to a 
-pop-up asking a user if they wish to make a purchase. 
+pop-up asking a user if they wish to make a purchase.
+
+7. **Bait and switch:** means the practice of advertising a particular outcome based on the user’s action but deceptively serving an alternate outcome. 
+
+    Illustrations: 
+
+    (a) a seller offers a quality product at a cheap price but when the consumer is about to pay or buy, the seller states that the product is no longer available and instead offers a similar looking product but more expensive; 
+
+    (b) a product is unavailable but is falsely shown as available to lure the consumer to move it to the shopping cart. Once the consumer moves it to the shopping cart, it is revealed that the product is ‘out of stock’ and instead, a higher-priced product is now available.
+
+8. **Drip pricing:** means a practice whereby-
+
+   (i) elements of prices are not revealed upfront or are revealed surreptitiously within the user experience; or
+
+   (ii) revealing the price post-confirmation of purchase, i.e. charging an amount higher than the amount disclosed at the time of checkout; or
+
+   (iii) a product or service is advertised as free without appropriate disclosure of the fact that the continuation of use requires in-app purchase; or
+
+   (iv) a user is prevented from availing a service which is already paid for unless something additional is purchased.
+
+   Explanation-: A marketplace e-commerce entity shall not be liable for price fluctuations to the extent attributable to price changes by third party sellers or due to other factors beyond their control.
+
+   Illustrations:
+
+   (a) A consumer is booking a flight, the online platform showcases the price as X at the checkout page, and when payment is being made, price Y (which is more than X) has been charged by the platform to the consumer;
+
+   (b) A consumer has downloaded a mobile application for playing chess, which was advertised as ‘play chess for free’. However, after 7 days, the app asked for a payment to continue playing chess. The fact that the free version of the game is available only for a limited time, i.e., 7 days in this case, was not disclosed to the consumer at the time of downloading the mobile application;
+
+   (c) A consumer has purchased a gym membership. In order to actually use the gym, the user must purchase special shoes/boxing gloves from the gym, and the same was not displayed at the time of offering the gym membership.
+
+9. **Disguised advertisement:** means a practice of posing, masking advertisements as other types of content such as user generated content or new articles or false advertisements, which are designed to blend in with the rest of an interface in order to trick customers into clicking on them.
+
+    Explanation-
+
+   (a) for the purposes of this paragraph, the expression “disguised advertisement” shall also include misleading advertisement as defined in clause 2(28) of the Act and the (“Guidelines for Prevention of Misleading Advertisements and Endorsements for Misleading Advertisements, 2022”)[https://consumeraffairs.nic.in/sites/default/files/CCPA_Notification.pdf] shall also be applicable to it.
+
+   > Note: Clause 2(28) states the following:
+   >
+   >(28) "misleading advertisement" in relation to any product or service, means an advertisement, which--
+   >
+   >(i) falsely describes such product or service; or
+   >
+   >(ii) gives a false guarantee to, or is likely to mislead the consumers as to the nature, substance, quantity or quality of such product or service; or
+   >
+   >(iii) conveys an express or implied representation which, if made by the manufacturer or seller or service provider thereof, would constitute an unfair trade practice; or
+   >
+   >(iv) deliberately conceals important information;
+   >
+
+  (b) in relation to content posted by a seller or an advertiser on a platform, the responsibility of making the 
+disclosure that such content is an advertisement shall be on such seller or advertiser.
+
+  10. **Nagging** means a dark pattern practice due to which a user is disrupted and annoyed by repeated and persistent interactions, in the form of requests, information, options, or interruptions, to effectuate a transaction and make some commercial gains, unless specifically permitted by the user.
+
+      Illustrations:
+
+      (a) websites asking a user to download their app, again and again;
+
+      (b) platforms asking users to give their phone numbers or other personal details for supposedly security purposes;
+
+      (c) constant request to turn on or accept notifications or cookies with no option to say “NO”.
+
+  11. **Trick Question** means the deliberate use of confusing or vague language like confusing wording, double negatives, or other similar tricks, in order to misguide or misdirect a user from taking desired action or leading consumer to take a specific response or action
+     
+      Illustrations:
+
+      (a) while giving a choice to opt, “Do you wish to opt out of receiving updates on our collection and discounts forever?” using phrases like, “Yes. I would like to receive updates” and “Not Now”, instead of the option, “Yes”.
+
+  12. “Saas billing” refers to the process of generating and collecting payments from consumers on a recurring basis in a software as a service (SaaS) business model by exploiting positive acquisition loops in recurring subscriptions to get money from users as surreptitiously as possible.
+
+      Illustrations:
+
+      (a) no notification is given to the user when free trial is converted to paid;
+
+      (b) silent recurring transactions whereby the user’s account is debited without being notified or simply stated auto-renewing monthly subscriptions without telling users;
+
+      (c) charging customers for features and services they don’t use;
+
+      (d) using shady credit card authorization practices to deceive consumers. 
+
+  13. **Rogue Malwares** means using a ransomware or scareware to mislead or trick user into believing there is a virus on their computer and aims to convince them to pay for a fake malware removal tool that actually installs malware on their computer.
+     
+      Illustrations:
+
+      (a) when a pirating website/app promises the consumer to provide free content (audio or audio-visual or others) but actually leads to an imbedded malware when the link is accessed;
+
+      (b) when consumers gain access to the content on pirated platforms but keep getting pop-ups that have advertisements on them which are imbedded with malware;
+
+      (c) when consumers are prompted to click on an advertisement or are automatically redirected to an advertisement, but instead find their personal filed locked up, followed by a demand to make a payment to regain access.
