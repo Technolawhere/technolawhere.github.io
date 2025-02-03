@@ -155,7 +155,7 @@ pop-up asking a user if they wish to make a purchase.
 
     Explanation-
 
-   (a) for the purposes of this paragraph, the expression “disguised advertisement” shall also include misleading advertisement as defined in clause 2(28) of the Act and the (“Guidelines for Prevention of Misleading Advertisements and Endorsements for Misleading Advertisements, 2022”)[https://consumeraffairs.nic.in/sites/default/files/CCPA_Notification.pdf] shall also be applicable to it.
+   (a) for the purposes of this paragraph, the expression “disguised advertisement” shall also include misleading advertisement as defined in clause 2(28) of the Act and the [“Guidelines for Prevention of Misleading Advertisements and Endorsements for Misleading Advertisements, 2022”](https://consumeraffairs.nic.in/sites/default/files/CCPA_Notification.pdf) shall also be applicable to it.
 
    > Note: Clause 2(28) states the following:
    >
