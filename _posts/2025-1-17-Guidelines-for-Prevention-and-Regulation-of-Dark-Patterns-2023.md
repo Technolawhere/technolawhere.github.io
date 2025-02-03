@@ -55,8 +55,24 @@ There are 13 kinds of dark patterns that are specified under annexure 1 to the g
       b. Falsely creating time-bound pressure to make a purchase, such as describing a sale as an ‘exclusive’ sale for a limited time only for a select group of users.  
 
 
-2. **Basket sneaking:**
+2. **Basket sneaking:** means inclusion of additional items such as products, services, payments to charity or 
+donation at the time of checkout from a platform, without the consent of the user, such that the total amount payable 
+by the user is more than the amount payable for the product or service chosen by the user:
 
+   Provided that the addition of free samples or providing complimentary services or addition of necessary fees 
+disclosed at the time of purchase, shall not be considered as basket sneaking.
+
+   **Explanation**- The term “necessary fees” means, the fees which is necessary to fulfill the completion of the 
+order such as delivery charges, gift wrapping, additional taxes on the product charged by the government or 
+any other charges which are explicitly disclosed to the consumer at the time of purchase. 
+
+   Illustrations: 
+
+      (a) automatic addition of paid ancillary services with a pre-ticked box or otherwise to the cart when a consumer is purchasing a product or service; 
+
+      (b) a user purchases a single salon service, but while checking out, a subscription to the salon service is automatically added; 
+
+      (c) automatically adding travel insurance while a user purchases a flight ticket. 
 
 
 
