@@ -42,6 +42,11 @@ Dark patterns work by influencing the way choices are presented to users, often 
 
 There are 13 kinds of dark patterns that are specified under annexure 1 to the guidelines:
 
+> Important note:
+>
+> The dark pattern practices and illustrations specified below provide only guidance and shall not be construed as an interpretation of law or as a binding opinion or decision as different facts or conditions may entail different interpretations.
+
+
 1. **False Urgency:** means falsely stating or implying the sense of urgency or scarcity so as to mislead a user into making an immediate purchase or taking an immediate action, which may lead to a purchase. This would include:
    
    a. Showing false popularity of a product or service to manipulate user decision
@@ -211,3 +216,52 @@ disclosure that such content is an advertisement shall be on such seller or adve
       (b) when consumers gain access to the content on pirated platforms but keep getting pop-ups that have advertisements on them which are imbedded with malware;
 
       (c) when consumers are prompted to click on an advertisement or are automatically redirected to an advertisement, but instead find their personal filed locked up, followed by a demand to make a payment to regain access.
+
+## Who do these guidelines apply to regarding the use of dark patterns?
+
+These guidelines apply to all platforms systematically offering goods or services in India, as well as advertisers and sellers. This includes any entity, regardless of size, that presents products or services to consumers online. The intent is to regulate the entire ecosystem of online commerce.
+
+Section 3 of the act talks about application-
+
+>
+> These guidelines shall apply to -
+>
+> (i) all platforms, systematically offering goods or services in India;
+>
+> (ii) advertisers;
+>
+> (iii) sellers.
+>
+
+## Are these guidelines the only regulations on dark patterns?
+
+No, these guidelines are in addition to any other existing laws or regulations concerning these practices. If a specific dark pattern practice is already regulated under another law, these guidelines will add to, not replace, those regulations.
+
+Section 6 says that 
+
+>
+> Guidelines not in derogation of other laws ––
+>
+> Where a dark pattern practice is regulated under any other law for the time being in force or the rules or regulations made thereunder, the provisions contained in these guidelines shall be in addition to and not in derogation of such other laws
+>
+
+## What happens if a platform or seller engages in a prohibited dark pattern practice?
+
+Any platform, advertiser, or seller found engaging in any of the specified dark patterns will be considered to be in violation of the guidelines and consumer protection laws. 
+
+Sections 4 talks about prohibitions against engaging in dark patterns and states that 
+
+> No person, including any platform, shall engage in any dark pattern practice.
+
+While the document does not explicitly outline enforcement or penalties, it is clear that the Central Consumer Protection Authority (CCPA) has the power to investigate and regulate these practices, and consumers can expect potential legal action, penalties, or other remedial measures for violations.
+
+## Regarding power to interpret the guidelines: 
+
+In cases of ambiguity or disputes in the interpretation of the guidelines, the decision of the Central Consumer Protection Authority (CCPA) is considered final (section 7)
+
+
+
+
+
+
+
