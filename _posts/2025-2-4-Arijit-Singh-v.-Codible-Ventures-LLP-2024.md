@@ -64,7 +64,7 @@ A lawsuit was filed by Arijit Singh, a prominent Indian singer, against numerous
 
 * **The court finally determined that the defendants' use of the plaintiff's personality traits does constitute a violation of his personality rights.**
 
-## Whether the use of AI to replicate the plaintiff's voice and image is an infringement of his rights?
+### Whether the use of AI to replicate the plaintiff's voice and image is an infringement of his rights?
 
 * The court noted that the AI platforms were using sophisticated algorithms to mimic the plaintiff's voice and other attributes.
 
