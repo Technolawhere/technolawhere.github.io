@@ -38,7 +38,7 @@ A lawsuit was filed by Arijit Singh, a prominent Indian singer, against numerous
 
 * **The court finally agreed that Arijit Singh has a valid claim to personality rights that can be protected against unauthorized commercial exploitation.**
 
-### Whether the defendants' use of the plaintiff's personality traits constitutes a violation of these rights.
+### Whether the defendants' use of the plaintiff's personality traits constitutes a violation of these rights?
 
 * The court found that the defendants are commercially exploiting the plaintiff's personality traits for personal gain without his permission.
 
@@ -64,7 +64,7 @@ A lawsuit was filed by Arijit Singh, a prominent Indian singer, against numerous
 
 * **The court finally determined that the defendants' use of the plaintiff's personality traits does constitute a violation of his personality rights.**
 
-## Whether the use of AI to replicate the plaintiff's voice and image is an infringement of his rights.
+## Whether the use of AI to replicate the plaintiff's voice and image is an infringement of his rights?
 
 * The court noted that the AI platforms were using sophisticated algorithms to mimic the plaintiff's voice and other attributes.
 
@@ -78,11 +78,11 @@ A lawsuit was filed by Arijit Singh, a prominent Indian singer, against numerous
 
 * **The court determined that the use of AI to replicate the plaintiff's voice and image is an infringement of his personality rights**.
 
-### Whether the sale of merchandise bearing the plaintiff's likeness is an infringement of his rights.
+### Whether the sale of merchandise bearing the plaintiff's likeness is an infringement of his rights?
 
 * The court observed that some defendants are selling merchandise bearing Singh's name, image, and likeness.
 
-* The court stated that the sale of merchandise bearing the Plaintiff’s personality traits, without any permission from the Plaintiff, is in violation of the Plaintiff’s personality rights and right of publicity.
+* **The court stated that the sale of merchandise bearing the Plaintiff’s personality traits, without any permission from the Plaintiff, is in violation of the Plaintiff’s personality rights and right of publicity.**
 
 * The court noted that the Plaintiff had made a conscious personal choice to refrain from commercialization of his personality traits.
 
@@ -94,5 +94,26 @@ A lawsuit was filed by Arijit Singh, a prominent Indian singer, against numerous
 
 * The court noted that the domain names were being squatted upon and nothing more.
 
-* Court ordered the domain registrars to suspend the domain names arijitsingh.com and arijitsingh.in. The court clarified that they would consider transferring the domain names at a later stage.
+* **Court ordered the domain registrars to suspend the domain names arijitsingh.com and arijitsingh.in. The court clarified that they would consider transferring the domain names at a later stage**.
+
+### Whether the actions of the Defendant No. 1, 2 and 7 of disseminating videos that instruct individuals on how to use AI tools to replicate the plaintiff's voice constitutes a violation of his rights? 
+
+* The court observed that Defendant Nos. 1, 2, and 7 were disseminating videos that instruct individuals on how to use unauthorized AI models to replicate a celebrity’s voice without their consent.
+
+* The court reasoned that this action cannot be shielded under the right of freedom of speech and expression.
+
+* **The court determined that the actions of Defendant Nos 1, 2 and 7 constituted a violation of the plaintiff’s rights. The court ordered the defendants to edit or remove all references to the plaintiff in those specific videos.**
+
+### Whether the Plaintiff should be granted an ex-parte ad-interim injunction to prevent further violations of his rights?
+
+* The court found that the Plaintiff had made a strong **prima facie case** for the grant of an ad-interim injunction, and the **balance of convenience** was in the Plaintiff's favor.
+
+* The court determined that **giving notice to the defendants would defeat the purpose** of the plaintiff's application.
+
+* The court reasoned that unless the reliefs were granted, the Plaintiff would suffer **irreparable injury** that could not be compensated in terms of money.
+
+* The court relied on **Applause Entertainment Private Limited v. Meta Platforms Inc** to support the granting of a dynamic injunction.
+
+* **The court granted an ex-parte ad-interim injunction in favor of the plaintiff**
+
 
