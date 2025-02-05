@@ -37,3 +37,21 @@ A lawsuit was filed by Arijit Singh, a prominent Indian singer, against numerous
 * Court also agreed with the recognition of right to privacy, including right to control the use of one's name and likeness, in **R. Rajagopal v. State of TN**.
 
 * **The court finally agreed that Arijit Singh has a valid claim to personality rights that can be protected against unauthorized commercial exploitation.**
+
+### Whether the defendants' use of the plaintiff's personality traits constitutes a violation of these rights.
+
+* The court found that the defendants are commercially exploiting the plaintiff's personality traits for personal gain without his permission.
+
+* The court observed that the defendants are using the plaintiff's popularity to attract traffic to their platforms and are enabling others to create counterfeit content that misuses his identity.
+
+* The court also reasoned that permitting the defendants to continue their actions could jeopardize the Plaintiff’s career and leave room for misuse of these AI tools.
+
+* The court noted that the unauthorized use of a celebrity's persona for commercial gain **constitutes actionable torts like dilution and tarnishment**.
+
+* Anil Kapoor v. Simply Life India: The court cited this case to highlight that any misuse of a celebrity’s name, voice, persona or likeness is not acceptable.
+
+* R. Rajagopal v. State of T.N: The court cited the Auto Shankar case to highlight that a person’s name or likeness cannot be used without consent.
+
+* The court determined that the defendants' use of the plaintiff's personality traits does constitute a violation of his personality rights.
+
+##
