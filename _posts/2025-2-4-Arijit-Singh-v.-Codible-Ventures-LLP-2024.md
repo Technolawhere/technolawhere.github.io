@@ -1,6 +1,6 @@
 ---
-title: "Arijit Singh v. Codible Ventures LLP: Celebrity personality rights protected from AI Exploitation
-date: 2025-1-17 00:00:00 +0530
+title: "Arijit Singh v. Codible Ventures LLP: Celebrity personality rights protected from AI Exploitation"
+date: 2025-2-4 00:00:00 +0530
 categories: [Intellectual Property Rights, Artificial Intelligence]
 tags: [IPR, AI, Personality Rights]
 ---
