@@ -48,10 +48,51 @@ A lawsuit was filed by Arijit Singh, a prominent Indian singer, against numerous
 
 * The court noted that the unauthorized use of a celebrity's persona for commercial gain **constitutes actionable torts like dilution and tarnishment**.
 
-* Anil Kapoor v. Simply Life India: The court cited this case to highlight that any misuse of a celebrity’s name, voice, persona or likeness is not acceptable.
+  >
+  > Dilution in law refers to a concept under trademark law under which the use of a trademark that is very similar to a famous trademark causes a damage to the reputation or distinctive character of the famous trademark.
+  >
+  >This may happen by two mechanisms: Blurrig or tarnishment.
+  >
+  >Blurring involves the use of a similar trademark in such a manner that impairs the distinctiveness of the famous trademark.
+  >
+  >Dilution by tarnishment happens when the reputation of the famous trademark takes a hit because of a perceived association to a similar trademark.
+  >  
 
-* R. Rajagopal v. State of T.N: The court cited the Auto Shankar case to highlight that a person’s name or likeness cannot be used without consent.
+* The court cited **Anil Kapoor v. Simply Life India** to highlight that any misuse of a celebrity’s name, voice, persona or likeness is not acceptable.
 
-* The court determined that the defendants' use of the plaintiff's personality traits does constitute a violation of his personality rights.
+* In **R. Rajagopal v. State of T.N** the court had cited the Auto Shankar case to highlight that a person’s name or likeness cannot be used without consent.
 
-##
+* **The court finally determined that the defendants' use of the plaintiff's personality traits does constitute a violation of his personality rights.**
+
+## Whether the use of AI to replicate the plaintiff's voice and image is an infringement of his rights.
+
+* The court noted that the AI platforms were using sophisticated algorithms to mimic the plaintiff's voice and other attributes.
+
+* The court observed that some defendants are using AI to convert text, speech, or audio files into Singh's voice.
+
+* The court stated that making AI tools available that enable the conversion of any voice into that of a celebrity without their permission constitutes a violation of their personality rights.
+
+* The court emphasized that such tools facilitate the unauthorized appropriation and manipulation of a celebrity's voice, which is a key component of their personal identity and public persona.
+
+* The court's reasoning in this matter was based on the general principles of personality rights and the right to control one's likeness, without citing a specific precedent for AI use, which indicates the novelty of the issue.
+
+* **The court determined that the use of AI to replicate the plaintiff's voice and image is an infringement of his personality rights**.
+
+### Whether the sale of merchandise bearing the plaintiff's likeness is an infringement of his rights.
+
+* The court observed that some defendants are selling merchandise bearing Singh's name, image, and likeness.
+
+* The court stated that the sale of merchandise bearing the Plaintiff’s personality traits, without any permission from the Plaintiff, is in violation of the Plaintiff’s personality rights and right of publicity.
+
+* The court noted that the Plaintiff had made a conscious personal choice to refrain from commercialization of his personality traits.
+
+* **Anil Kapoor v. Simply Life India**: The court relied on this precedent, highlighting that a celebrity's right of endorsement is a major source of livelihood and should be protected from unauthorized dissemination and sale of merchandise.
+
+### Whether the domain names registered using the Plaintiff’s name should be suspended or transferred.
+
+* Court observed that some defendants had registered domain names containing the Plaintiff's name.
+
+* The court noted that the domain names were being squatted upon and nothing more.
+
+* Court ordered the domain registrars to suspend the domain names arijitsingh.com and arijitsingh.in. The court clarified that they would consider transferring the domain names at a later stage.
+
