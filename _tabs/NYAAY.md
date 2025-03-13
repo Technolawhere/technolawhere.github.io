@@ -1,6 +1,6 @@
 ---
 layout: default
-icon: fas fa fa-balance-scale
+
 order: 3
 display: none
 ---
