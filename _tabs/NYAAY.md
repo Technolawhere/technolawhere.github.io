@@ -1,7 +1,8 @@
 ---
 layout: default
 icon: fas fa fa-balance-scale
-order: 
+order: 3
+display: none
 ---
 # Initiative NYAAY
 
