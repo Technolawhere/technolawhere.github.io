@@ -1,9 +1,7 @@
 ---
 layout: default
 icon: fas fa fa-balance-scale
-order: 6
-categories: [Intellectual Property Rights]
-tags: [IPR, Trade Marks Act 1999]
+order: 
 ---
 # Initiative NYAAY
 
