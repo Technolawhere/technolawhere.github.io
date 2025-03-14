@@ -18,3 +18,4 @@ Our initiative is built on the idea of legal education and awareness. By staying
 
 N.Y.A.A.Y. also provides paralegal aid to those who require assistance, especially in circumstances where professional legal services may not be immediately accessible. With a commitment to helping individuals better understand their legal rights and access the support they need, NYAAY is dedicated to making legal advice and assistance more accessible and understandable to all.
 
+-Team N.Y.A.A.Y.
