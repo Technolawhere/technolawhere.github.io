@@ -2,7 +2,7 @@
 title: "Pradeep Kumar Biswas v. Indian Institute of Chemical Biology (2002) 5 SCC 111"
 date: 2025-3-17 00:00:00 +0530
 categories: [Constitutional Law]
-tags: [Article 12]
+tags: [A. 12 Constitution of India]
 ---
 
 # Pradeep Kumar Biswas v. Indian Institute of Chemical Biology (2002) 5 SCC 111
