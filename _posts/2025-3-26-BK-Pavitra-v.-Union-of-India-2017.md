@@ -22,19 +22,19 @@ Whether the Karnataka Act, 2002, was constitutionally valid under Articles 14 an
 
 ## Contentions of the Appellants (B. K. Pavitra & Ors.):
 
-	1.	Granting consequential seniority to SC/ST candidates promoted under reservation violated Articles 14 and 16, affecting administrative efficiency.
- 
-	2.	Despite upholding the 85th Amendment, the principles from Badappanavar, Ajit Singh II, and Virpal Chauhan remained relevant as the state had not independently determined ‘backwardness’, ‘inadequacy of representation’, or ‘overall administrative efficiency’.
- 
-	3.	The State failed to provide material or data demonstrating the inadequacy of SC/ST representation or considering administrative efficiency.
-	
-  4.	The High Court erroneously assumed that the inbuilt mechanism of 15% and 3% reservation under Section 3 of the Act negated the need to determine inadequacy of representation or backwardness.
+1.	Granting consequential seniority to SC/ST candidates promoted under reservation violated Articles 14 and 16, affecting administrative efficiency.
 
-  5.	The High Court mistakenly placed the burden of proving efficiency damage on the petitioners.
+2.	Despite upholding the 85th Amendment, the principles from Badappanavar, Ajit Singh II, and Virpal Chauhan remained relevant as the state had not independently determined ‘backwardness’, ‘inadequacy of representation’, or ‘overall administrative efficiency’.
+
+3.	The State failed to provide material or data demonstrating the inadequacy of SC/ST representation or considering administrative efficiency.
 	
-  6.	The absence of a provision excluding the “creamy layer” rendered the Act invalid.
+4.	The High Court erroneously assumed that the inbuilt mechanism of 15% and 3% reservation under Section 3 of the Act negated the need to determine inadequacy of representation or backwardness.
+
+5.	The High Court mistakenly placed the burden of proving efficiency damage on the petitioners.
 	
-  7.	The State did not conduct the exercise required under the M. Nagaraj case.
+6.	The absence of a provision excluding the “creamy layer” rendered the Act invalid.
+	
+7.	The State did not conduct the exercise required under the M. Nagaraj case.
 
 ## Contentions of the Respondents (State of Karnataka & Others):
 	
