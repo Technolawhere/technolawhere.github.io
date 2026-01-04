@@ -2,7 +2,7 @@
 title: "Syed Asifuddin v. The State of Andhra Pradesh 2006 (1) ALD Cri 96, 2005 CriLJ 4314"
 date: 2025-11-20 00:00:00 +0530
 categories: [Information Technology Law]
-tags: [IT Law, Information Technology Act, 2000]
+tags: [IT Law, Information Technology Act 2000]
 ---
 # Syed Asifuddin v. The State of Andhra Pradesh 2006 (1) ALD Cri 96, 2005 CriLJ 4314, (decided on 29 July, 2005 (AP High Court))
 
