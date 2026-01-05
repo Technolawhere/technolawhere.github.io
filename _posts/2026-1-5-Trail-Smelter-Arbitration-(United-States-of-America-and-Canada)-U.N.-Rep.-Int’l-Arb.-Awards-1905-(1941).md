@@ -1,6 +1,6 @@
 ---
 title: "Trail Smelter Arbitration (United State/Canada), 3 U.N. Rep. Int’l Arb. Awards 1905 (1941)"
-date: 2025-11-20 00:00:00 +0530
+date: 2026-1-5 00:00:00 +0530
 categories: [Environmental Law]
 tags: [International Environmental Law]
 ---
