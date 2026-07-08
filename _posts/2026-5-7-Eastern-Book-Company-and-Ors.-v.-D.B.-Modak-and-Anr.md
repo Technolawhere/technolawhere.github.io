@@ -15,17 +15,25 @@ tags: [IPR, The Copyright Act 1957]
 
 **Date of Judgment:** 12 December 2007
 
-**Case No.:** Civil Appeal No. 6472 of 2004 (with Civil Appeal No. 6905 of 2004 and Contempt Petition (Civil) No. 158 of 2006)
+**Case No.:** Civil Appeal Nos. 6905 and 6472 of 2004 and Contempt Petition (Civil) No. 158 of 2006 in civil Appeal No. 6472 of 2004
 
 ---
 
-## 1. In a minute
+## 1. One-Minute Summary
 
 Eastern Book Company (EBC), publisher of the law report *Supreme Court Cases* (SCC), sued two CD-ROM legal database publishers: Spectrum Business Support Ltd. (whose product was "Grand Jurix") and Regent Data Tech Pvt. Ltd. (whose product was "The Laws"), alleging that they had copied verbatim the copy-edited text of Supreme Court judgments as it appeared in SCC, along with EBC's sequencing, selection, arrangement, paragraph numbering, footnote numbers and cross-references. EBC claimed that its copy-edited version of the judgments, created by inserting cross-citations, corrections, headnotes, paragraph numbering and other editorial inputs into the raw judgment text obtained from the Registry of the Supreme Court, was itself an "original literary work" under Section 13 of the Copyright Act, 1957, entitled to copyright protection as a whole.
 
 The central question before the Court was: what standard of **originality** must a **derivative work** (a work built on pre-existing public-domain material, here the raw text of judgments) satisfy in order to attract copyright protection, and did EBC's copy-edited version of the judgments, taken as a whole, meet that standard?
 
-The Supreme Court surveyed the English "sweat of the brow" line of authorities, the American "minimal creativity" standard from *Feist Publications*, and the Canadian Supreme Court's intermediate "skill and judgment" standard from *CCH Canadian Ltd. v. Law Society of Upper Canada*. It expressly adopted the Canadian standard: a derivative work need not be "creative" in the sense of being novel or non-obvious but must originate from the author (not be copied), and must be the product of the author's exercise of skill and judgment that is not so trivial as to be a purely mechanical exercise.
+The Supreme Court surveyed the English "sweat of the brow" line of authorities, the American "minimal creativity" standard from *Feist Publications*, and the Canadian Supreme Court's intermediate "skill and judgment" standard from *CCH Canadian Ltd. v. Law Society of Upper Canada*. It expressly adopted the Canadian standard: 
+
+- a derivative work must originate from the author (not be copied from another work)
+- must be the product of the exercise of the author's skill and judgment
+- exercise must not be so trivial that it can be characterised as a purely mechanical exercise.
+- the exercise must be such that gives the work a somewhat different character, a distinguishable feature and flavour, from the raw material (raw judgements in this case).
+- work should not be a mere product of labour and capital.
+- This standard rejects the "sweat of the brow" doctrine (too low, rewarding mere labour and capital)
+- This standard also does not require a novel or non-obvious "creativity" in the patent law sense (too high).
 
 Applying this standard, the Court held that the bulk of EBC's editorial inputs like cross-citations, corrected case names, page/paragraph references to quotations, margin headings, removal of abbreviations, punctuation corrections, and similar formatting changes were the product of labour, skill and capital, but not of the requisite degree of creative or judgmental input, and therefore did **not** generate a fresh copyright in the copy-edited judgment text as a whole. However, the Court carved out two specific categories of inputs: (i) the segregation of the running text of a judgment into separate numbered paragraphs together with internal cross-paragraph referencing, and (ii) the insertion of editorial characterisations of judicial opinions such as "concurring," "partly dissenting," "partly concurring," etc. These, according to the Court, involved genuine legal understanding and judgment, and therefore protectable by copyright in favour of EBC.
 
