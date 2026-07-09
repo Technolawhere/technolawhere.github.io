@@ -28,7 +28,7 @@ The Court held that:
 
 ---
 
-## 2. Important Provisions of [Copyright Act](https://www.indiacode.nic.in/handle/123456789/1367?view_type=search&col=123456789/1362)
+## 2. Important Provisions of [Copyright Act](https://www.indiacode.nic.in/handle/123456789/1367?view_type=search&col=123456789/1362) and [CPC](https://www.indiacode.nic.in/handle/123456789/2191?sam_handle=123456789/1362)
 
 | Statute | Provision | Subject Matter |
 |---|---|---|
