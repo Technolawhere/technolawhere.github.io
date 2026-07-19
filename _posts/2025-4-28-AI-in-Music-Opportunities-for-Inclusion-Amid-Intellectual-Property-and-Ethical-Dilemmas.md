@@ -1,6 +1,6 @@
 ---
 title: "Research Paper- AI in Music- Opportunities for Inclusion Amid Intellectual Property and Ethical Dilemmas"
-date: 2025-11-28 00:00:00 +0530
+date: 2025-4-28 00:00:00 +0530
 categories: [Intellectual Property Rights, Artificial Intelligence]
 tags: [IPR, AI, The Copyright Act 1957]
 ---
