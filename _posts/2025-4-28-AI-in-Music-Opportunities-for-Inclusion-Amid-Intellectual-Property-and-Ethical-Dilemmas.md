@@ -7,7 +7,7 @@ tags: [IPR, AI, The Copyright Act 1957]
 
 # AI in Music: Opportunities for Inclusion Amid Intellectual Property and Ethical Dilemmas
 
-*(This Paper was presented at the International Conference on "Navigating Intellectual Property Landscape in the Age of Artificial Intelligence", organized by Faculty of Law, University of Delhi in collaboration with Project Saksham 3.0, held on 26th April 2025)*
+*(This research article was presented at the International Conference on "Navigating Intellectual Property Landscape in the Age of Artificial Intelligence", organized by Faculty of Law, University of Delhi in collaboration with Project Saksham 3.0, held on 26th April 2025)*
 
 ## Abstract
 
