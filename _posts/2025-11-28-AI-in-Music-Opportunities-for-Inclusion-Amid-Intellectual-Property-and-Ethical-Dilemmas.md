@@ -138,74 +138,74 @@ In conclusion, this article highlights AI’s transformative role in music—rev
 
 ## Citations 
 
-[^1]Indian Express. (2018, July 2). More than 19,500 mother tongues spoken in India: Census. https://indianexpress.com/article/india/more-than-19500-mother-tongues-spoken-in-india-census- 5241056/
+[^1]: Indian Express. (2018, July 2). More than 19,500 mother tongues spoken in India: Census. https://indianexpress.com/article/india/more-than-19500-mother-tongues-spoken-in-india-census- 5241056/
 
-[^2]Moseley, C. (Ed.). (2010). Atlas of the world’s languages in danger (3rd ed.). UNESCO Publishing. https://unesdoc.unesco.org/ark:/48223/pf0000187026
+[^2]: Moseley, C. (Ed.). (2010). Atlas of the world’s languages in danger (3rd ed.). UNESCO Publishing. https://unesdoc.unesco.org/ark:/48223/pf0000187026
 
-[^3]The Hindu Bureau. (2023, February 21). ‘India has lost 220 languages in 50 years.’ The Hindu. https://www.thehindu.com/news/national/karnataka/india-has-lost-220-languages-in-50- years/article66536389.ece
+[^3]: The Hindu Bureau. (2023, February 21). ‘India has lost 220 languages in 50 years.’ The Hindu. https://www.thehindu.com/news/national/karnataka/india-has-lost-220-languages-in-50- years/article66536389.ece
 
-[^4]English rendering of PM’s address in the 119th Episode of ‘Mann Ki Baat’ on 23.02.2025. (n.d.). https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2105618
+[^4]: English rendering of PM’s address in the 119th Episode of ‘Mann Ki Baat’ on 23.02.2025. (n.d.). https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2105618
 
-[^5]Chen, D., Sun, N., Lee, J.-H., Zou, C., & Jeon, W.-S. (2024). Digital Technology in Cultural Heritage: Construction and Evaluation Methods of AI-Based Ethnic Music Dataset. Applied Sciences, 14(23), 10811. https://doi.org/10.3390/app142310811
+[^5]: Chen, D., Sun, N., Lee, J.-H., Zou, C., & Jeon, W.-S. (2024). Digital Technology in Cultural Heritage: Construction and Evaluation Methods of AI-Based Ethnic Music Dataset. Applied Sciences, 14(23), 10811. https://doi.org/10.3390/app142310811
 
-[^6]Minhyang (Mia) Suh, Emily Youngblom, Michael Terry, and Carrie J Cai. 2021. AI as Social Glue: Uncovering the Roles of Deep Generative AI during Social Music Composition. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21). Association for Computing Machinery, New York, NY, USA, Article 582, 1–11. https://doi.org/10.1145/3411764.3445219
+[^6]: Minhyang (Mia) Suh, Emily Youngblom, Michael Terry, and Carrie J Cai. 2021. AI as Social Glue: Uncovering the Roles of Deep Generative AI during Social Music Composition. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21). Association for Computing Machinery, New York, NY, USA, Article 582, 1–11. https://doi.org/10.1145/3411764.3445219
 
-[^7]How can integrating music into your classroom benefit student learning and development? | National Center on Safe Supportive Learning Environments (NCSSLE). (n.d.). https://safesupportivelearning.ed.gov/voices-field/how-does-music-benefit-your-classroom-or-school- community-most
+[^7]: How can integrating music into your classroom benefit student learning and development? National Center on Safe Supportive Learning Environments (NCSSLE). (n.d.). https://safesupportivelearning.ed.gov/voices-field/how-does-music-benefit-your-classroom-or-school- community-most
 
-[^8]Burns, M. (2024, August 21). 7 Ways to Use AI music in your Classroom - class tech tips. Class Tech Tips. https://classtechtips.com/2024/08/21/ai-music/
+[^8]: Burns, M. (2024, August 21). 7 Ways to Use AI music in your Classroom - class tech tips. Class Tech Tips. https://classtechtips.com/2024/08/21/ai-music/
 
-[^9] Minhyang (Mia) Suh, Emily Youngblom, Michael Terry, and Carrie J Cai. 2021. AI as Social Glue: Uncovering the Roles of Deep Generative AI during Social Music Composition. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21). Association for Computing Machinery, New York, NY, USA, Article 582, 1–11. https://doi.org/10.1145/3411764.3445219
+[^9]: Minhyang (Mia) Suh, Emily Youngblom, Michael Terry, and Carrie J Cai. 2021. AI as Social Glue: Uncovering the Roles of Deep Generative AI during Social Music Composition. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21). Association for Computing Machinery, New York, NY, USA, Article 582, 1–11. https://doi.org/10.1145/3411764.3445219
 
-[^10] Croom AM. Music, neuroscience, and the psychology of well-being: A précis. Front Psychol. 2012;2:393. doi:10.3389/fpsyg.2011.00393
+[^10]: Croom AM. Music, neuroscience, and the psychology of well-being: A précis. Front Psychol. 2012;2:393. doi:10.3389/fpsyg.2011.00393
 
-[^11] Lata F, Kourtesis I. Listening to music as a stress management tool. Eur Psychiatry. 2021;64(Suppl 1):S609. doi:10.1192/j.eurpsy.2021.1621
+[^11]: Lata F, Kourtesis I. Listening to music as a stress management tool. Eur Psychiatry. 2021;64(Suppl 1):S609. doi:10.1192/j.eurpsy.2021.1621
 
-[^12] Dingle GA, Sharman LS, Bauer Z, et al. How do music activities affect health and well-being? A scoping review of studies examining psychosocial mechanisms. Front Psychol. 2021;12:713818. doi:10.3389/fpsyg.2021.713818
+[^12]: Dingle GA, Sharman LS, Bauer Z, et al. How do music activities affect health and well-being? A scoping review of studies examining psychosocial mechanisms. Front Psychol. 2021;12:713818. doi:10.3389/fpsyg.2021.713818
  
-[^13] Lata F, Kourtesis I. Listening to music as a stress management tool. Eur Psychiatry. 2021;64(Suppl 1):S609. doi:10.1192/j.eurpsy.2021.1621
+[^13]: Lata F, Kourtesis I. Listening to music as a stress management tool. Eur Psychiatry. 2021;64(Suppl 1):S609. doi:10.1192/j.eurpsy.2021.1621
 
-[^14]Gardner, C. (2025, April 9). Yale Study: Music Mindfulness May Treat Symptoms of Anxiety and Depression. Yale School of Medicine. https://medicine.yale.edu/news-article/yale-study-music- mindfulness-may-treat-symptoms-of-anxiety-and-depression/
+[^14]: Gardner, C. (2025, April 9). Yale Study: Music Mindfulness May Treat Symptoms of Anxiety and Depression. Yale School of Medicine. https://medicine.yale.edu/news-article/yale-study-music- mindfulness-may-treat-symptoms-of-anxiety-and-depression/
 
-[^15]Global Wellness Institute. (2025b, April 11). Music for Health and Wellbeing Initiative Trends for 2025. https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/04/02/music-for-health-and- wellbeing-initiative-trends-for-2025/
+[^15]: Global Wellness Institute. (2025b, April 11). Music for Health and Wellbeing Initiative Trends for 2025. https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/04/02/music-for-health-and- wellbeing-initiative-trends-for-2025/
 
-[^16]Labbé, A. (2024, January 30). Council Post: AI to Benefit Humanity: Innovations in Senior care. Forbes. https://www.forbes.com/councils/forbestechcouncil/2024/01/30/ai-to-benefit-humanity-innovations-in- senior-care/
+[^16]: Labbé, A. (2024, January 30). Council Post: AI to Benefit Humanity: Innovations in Senior care. Forbes. https://www.forbes.com/councils/forbestechcouncil/2024/01/30/ai-to-benefit-humanity-innovations-in- senior-care/
 
-[^17]Soundverse. (2024, December 1). Using AI music to improve your mental health. Soundverse AI. https://www.soundverse.ai/blog/article/using-ai-music-to-improve-your-mental-health
+[^17]: Soundverse. (2024, December 1). Using AI music to improve your mental health. Soundverse AI. https://www.soundverse.ai/blog/article/using-ai-music-to-improve-your-mental-health
 
-[^18] Bansal, Aayam, Emotional Resonance in AI-Generated Music for Stress Therapy in Marginalized Communities (July 21, 2024). Available at SSRN: https://ssrn.com/abstract=4976704 or http://dx.doi.org/10.2139/ssrn.4976704
+[^18]: Bansal, Aayam, Emotional Resonance in AI-Generated Music for Stress Therapy in Marginalized Communities (July 21, 2024). Available at SSRN: https://ssrn.com/abstract=4976704 or http://dx.doi.org/10.2139/ssrn.4976704
 
-[^19] How Technology is Revolutionizing the Music Industry for LGBTQ+ Artists. (2025, March 10). The Convergence of Tech and Brands. https://madtechmag.com/2025/03/10/how-technology-is- revolutionizing-the-music-industry-for-lgbtq-artists/
+[^19]: How Technology is Revolutionizing the Music Industry for LGBTQ+ Artists. (2025, March 10). The Convergence of Tech and Brands. https://madtechmag.com/2025/03/10/how-technology-is- revolutionizing-the-music-industry-for-lgbtq-artists/
 
-[^20] Soundverse. (2024b, December 1). Using AI music to improve your mental health. Soundverse AI. https://www.soundverse.ai/blog/article/using-ai-music-to-improve-your-mental-health
+[^20]: Soundverse. (2024b, December 1). Using AI music to improve your mental health. Soundverse AI. https://www.soundverse.ai/blog/article/using-ai-music-to-improve-your-mental-health
 
-[^21] Concord Music Group, Inc. v. Anthropic PBC, 3:23-cv-01092 - CourtListener.com. (n.d.). CourtListener. https://www.courtlistener.com/docket/67894459/concord-music-group-inc-v-anthropic-pbc/
+[^21]: Concord Music Group, Inc. v. Anthropic PBC, 3:23-cv-01092 - CourtListener.com. (n.d.). CourtListener. https://www.courtlistener.com/docket/67894459/concord-music-group-inc-v-anthropic-pbc/
 
-[^22] Connelly, R. (2024, June 26). Record companies bring landmark cases for responsible AI against Suno and UDIO in Boston and New York Federal Courts, respectively - RIAA. RIAA. https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio- in-boston-and-new-york-federal-courts-respectively/
+[^22]: Connelly, R. (2024, June 26). Record companies bring landmark cases for responsible AI against Suno and UDIO in Boston and New York Federal Courts, respectively - RIAA. RIAA. https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio- in-boston-and-new-york-federal-courts-respectively/
 
-[^23]SpicyIP. (2024, January 3). Ankit Sahni’s AI “Co-authored” Artwork Denied Registration by US, Continues to be Registered in India. SpicyIP. https://spicyip.com/2023/12/ankit-sahnis-ai-co-authored- artwork-denied-registration-by-us-continues-to-be-registered-in-india.html
+[^23]: SpicyIP. (2024, January 3). Ankit Sahni’s AI “Co-authored” Artwork Denied Registration by US, Continues to be Registered in India. SpicyIP. https://spicyip.com/2023/12/ankit-sahnis-ai-co-authored- artwork-denied-registration-by-us-continues-to-be-registered-in-india.html
 
-[^24]Primary People’s Court of Nanshan District, China [2019]: Tencent Company v Yingxun Company, Case No. Y0305MC No. 14010
+[^24]: Primary People’s Court of Nanshan District, China [2019]: Tencent Company v Yingxun Company, Case No. Y0305MC No. 14010
 
-[^25] Andersen v. Stability AI Ltd., 3:23-cv-00201, (N.D. Cal.)
+[^25]: Andersen v. Stability AI Ltd., 3:23-cv-00201, (N.D. Cal.)
 
-[^26] Parkash, S. (2024). COPYRIGHT INFRINGEMENT BY GENERATIVE AI. RAJYA SABHA. https://sansad.in/getFile/annex/263/AU845.pdf?source=pqars
+[^26]: Parkash, S. (2024). COPYRIGHT INFRINGEMENT BY GENERATIVE AI. RAJYA SABHA. https://sansad.in/getFile/annex/263/AU845.pdf?source=pqars
 
-[^27] Case judgement pdf: https://www.livelaw.in/pdf_upload/arijit-singh-vs-codible-ventures-llp-552701.pdf
+[^27]: Case judgement pdf: https://www.livelaw.in/pdf_upload/arijit-singh-vs-codible-ventures-llp-552701.pdf
 
-[^28] JURIST Legal. Retrieved April 15, 2025, from https://www.jurist.org/news/2021/08/south-africa- approves-worlds-first-patent-with-ai-inventor/
-[^29] Largest report on AI in music reveals potentially devastating impact for Australian and New Zealand music creators. (2024, August 19). CISAC. https://www.cisac.org/Newsroom/society-news/largest-report- ai-music-reveals-potentially-devastating-impact-australian-and
+[^28]: JURIST Legal. Retrieved April 15, 2025, from https://www.jurist.org/news/2021/08/south-africa- approves-worlds-first-patent-with-ai-inventor/
+[^29]: Largest report on AI in music reveals potentially devastating impact for Australian and New Zealand music creators. (2024, August 19). CISAC. https://www.cisac.org/Newsroom/society-news/largest-report- ai-music-reveals-potentially-devastating-impact-australian-and
 
-[^30] Dugeri, M. (2024). The Cannibalization of Culture: Generative AI and the Appropriation of Indigenous African Musical Works. Journal of Intellectual Property and Information Technology Law (JIPIT), 4(1), 17– 67. https://doi.org/10.52907/jipit.v4i1.502
+[^30]: Dugeri, M. (2024). The Cannibalization of Culture: Generative AI and the Appropriation of Indigenous African Musical Works. Journal of Intellectual Property and Information Technology Law (JIPIT), 4(1), 17– 67. https://doi.org/10.52907/jipit.v4i1.502
  
-[^31]Global economic study shows human creators’ future at risk from generative AI. (2024, December 2). CISAC. https://www.cisac.org/Newsroom/news-releases/global-economic-study-shows-human-creators- future-risk-generative- ai#:~:text=Despite%20providing%20the%20creative%20fuel%20of%20the%20%E2%80%9CGen,%28% E2%82%AC10%20billion%20in%20music%3B%20%E2%82%AC12%20billion%20in%20audiovisual%29 .
+[^31]: Global economic study shows human creators’ future at risk from generative AI. (2024, December 2). CISAC. https://www.cisac.org/Newsroom/news-releases/global-economic-study-shows-human-creators- future-risk-generative- ai#:~:text=Despite%20providing%20the%20creative%20fuel%20of%20the%20%E2%80%9CGen,%28% E2%82%AC10%20billion%20in%20music%3B%20%E2%82%AC12%20billion%20in%20audiovisual%29 .
 
-[^32]Largest report on AI in music reveals potentially devastating impact for Australian and New Zealand music creators. (2024b, August 19). CISAC. https://www.cisac.org/Newsroom/society-news/largest- report-ai-music-reveals-potentially-devastating-impact-australian-and
+[^32]: Largest report on AI in music reveals potentially devastating impact for Australian and New Zealand music creators. (2024b, August 19). CISAC. https://www.cisac.org/Newsroom/society-news/largest- report-ai-music-reveals-potentially-devastating-impact-australian-and
 
-[^33]Government Of India Ministry Of Commerce & Industry Department For Promotion Of Industry And Internal Trade Rajya Sabha Unstarred Question No. 845. To Be Answered On Friday, The 09th February, 2024. Copyright Infringement By Generative AI: https://sansad.in/getFile/annex/263/AU845.pdf?source=pqars
+[^33]: Government Of India Ministry Of Commerce & Industry Department For Promotion Of Industry And Internal Trade Rajya Sabha Unstarred Question No. 845. To Be Answered On Friday, The 09th February, 2024. Copyright Infringement By Generative AI: https://sansad.in/getFile/annex/263/AU845.pdf?source=pqars
 
-[^34]The Protection Of Traditional Knowledge Bill, 2022: https://sansad.in/getFile/BillsTexts/LSBillTexts/Asintroduced/87%20of%202022%20AS.pdf?source=legisl ation
+[^34]: The Protection Of Traditional Knowledge Bill, 2022: https://sansad.in/getFile/BillsTexts/LSBillTexts/Asintroduced/87%20of%202022%20AS.pdf?source=legisl ation
   
-[^35]San Code Of Research Ethics,South African San Institute 2017: https://www.globalcodeofconduct.org/wp-content/uploads/2018/04/San-Code-of-RESEARCH-Ethics- Booklet_English.pdf
+[^35]: San Code Of Research Ethics,South African San Institute 2017: https://www.globalcodeofconduct.org/wp-content/uploads/2018/04/San-Code-of-RESEARCH-Ethics- Booklet_English.pdf
 
-[^36]D’Ignazio, C., & Klein, L. (2020, March 16). 7. Show your work. Data Feminism. https://data- feminism.mitpress.mit.edu/pub/0vgzaln4
+[^36]: D’Ignazio, C., & Klein, L. (2020, March 16). 7. Show your work. Data Feminism. https://data- feminism.mitpress.mit.edu/pub/0vgzaln4
  
